@@ -114,7 +114,7 @@ function keyword_match(obj, keyword) {
 	keyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 	obj["text"] = obj["text"].toLowerCase();
 	let word_regex = RegExp(`\\b${keyword}\\b`);
-	if (word_regex.test(string)) {
+	if (word_regex.test(obj["text"])) {
 		return true;
 	}
 	for (let x in obj["sub-elements"]) {
