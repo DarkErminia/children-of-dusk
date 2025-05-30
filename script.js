@@ -1,3 +1,24 @@
+(async () => {
+    const filePath = './cod.txt'; // Relative path to the text file
+
+    try {
+        // Step 1: Make the network request to fetch the file
+        const response = await fetch(filePath);
+
+        // Step 2: Check if the request was successful (HTTP status code 200-299)
+        if (!response.ok) {
+            throw new Error(`Failed to load '${filePath}': HTTP status ${response.status} ${response.statusText}`);
+        }
+        cod = await response.text();
+
+        // Step 4: Now 'codTextContent' contains the entire string from your cod.txt file
+        console.log("Successfully loaded cod.txt content:");
+
+    } catch (error) {
+        console.error("An error occurred while fetching cod.txt:", error);
+    }
+})();
+
 year_pattern = /\d{4}:/;
 year_range_regex = /\d+-\d+/;
 
