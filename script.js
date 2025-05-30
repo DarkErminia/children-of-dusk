@@ -73,44 +73,43 @@
 	    }
 	}
 	
-	timeline_div = document.getElementById("main")
-	
-	timeline_html = '';
-	current_display_title = '';
-	
-	function keyword_match(string, keyword) {
-		keyword = keyword.toLowerCase();
-	    keyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-	    string = string.toLowerCase();
-	    let word_regex = RegExp(`\\b${keyword}\\b`);
-	    return word_regex.test(string);
-	}
-	
-	function render_timeline(years,keywords) {
-	// Years and Keywords should be in a list.
-	  keywords = keywords.map(str => str.toLowerCase());
-	  for (let x in cod_list) {
-	      if (years.length != 0 && !years.some(item => cod_list[x]["year"].includes(item))) {
-	      	continue;
-	      }
-	      if (keywords.length != 0 && !keywords.some(keyword => keyword_match(cod_list[x]["text"], keyword))) {
-	      	continue;
-	      }
-	      if (cod_list[x]["display"] != current_display_title) {
-	          timeline_html += `<p>${cod_list[x]["display"]}:</p>`
-	          current_display_title = cod_list[x]["display"];
-	      }
-	      if (year_pattern.test(cod_list[x]["text"])) {
-	          timeline_html  += `<p>${cod_list[x]["text"]}</p>`;
-	          indent = 0;
-	      } else {
-	          timeline_html += `<ul style="margin-left:${cod_list[x]["indent"]*5}%"><li><p>${cod_list[x]["text"]}</p></li></ul>`;
-	      }
-	  }
-	  
-	  document.getElementById("main").innerHTML = timeline_html;
-	}
-	
 	render_timeline([],[]);
 })();
 
+timeline_div = document.getElementById("main")
+	
+timeline_html = '';
+current_display_title = '';
+
+function keyword_match(string, keyword) {
+	keyword = keyword.toLowerCase();
+    keyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    string = string.toLowerCase();
+    let word_regex = RegExp(`\\b${keyword}\\b`);
+    return word_regex.test(string);
+}
+
+function render_timeline(years,keywords) {
+// Years and Keywords should be in a list.
+  keywords = keywords.map(str => str.toLowerCase());
+  for (let x in cod_list) {
+      if (years.length != 0 && !years.some(item => cod_list[x]["year"].includes(item))) {
+	continue;
+      }
+      if (keywords.length != 0 && !keywords.some(keyword => keyword_match(cod_list[x]["text"], keyword))) {
+	continue;
+      }
+      if (cod_list[x]["display"] != current_display_title) {
+	  timeline_html += `<p>${cod_list[x]["display"]}:</p>`
+	  current_display_title = cod_list[x]["display"];
+      }
+      if (year_pattern.test(cod_list[x]["text"])) {
+	  timeline_html  += `<p>${cod_list[x]["text"]}</p>`;
+	  indent = 0;
+      } else {
+	  timeline_html += `<ul style="margin-left:${cod_list[x]["indent"]*5}%"><li><p>${cod_list[x]["text"]}</p></li></ul>`;
+      }
+  }
+  
+  document.getElementById("main").innerHTML = timeline_html;
+}
