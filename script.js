@@ -52,7 +52,7 @@
 	                    year_counter = temp_list2;
 	                }
 	            }
-	    		display = proto_list[x];
+	    		display = proto_list[x].replace(/:/g, '');
 	        }
 	
 	        title_flag = false;
@@ -111,6 +111,6 @@
 	  document.getElementById("main").innerHTML = timeline_html;
 	}
 	
-	render_timeline([],["France","French"]);
+	render_timeline([],[]);
 })();
 
