@@ -99,7 +99,7 @@
 		}
 	}
 	
-	render_timeline([],[]);
+	render_timeline([''],['']);
 })();
 
 timeline_div = document.getElementById("main")
@@ -137,10 +137,10 @@ function render_timeline(years,keywords) {
   console.log(years,keywords);
   keywords = keywords.map(str => str.toLowerCase());
   for (let x in cod_list) {
-      if (years.length != 0 && !years.some(item => cod_list[x]["year"].includes(item))) {
+      if ((years[0] != '' || years.length != 1) && !years.some(item => cod_list[x]["year"].includes(item))) {
 	continue;
       }
-      if (keywords.length != 0 && !keywords.some(keyword => keyword_match(cod_list[x], keyword))) {
+      if ((keywords[0] != '' || keywords.length != 1) && !keywords.some(keyword => keyword_match(cod_list[x], keyword))) {
 	continue;
       }
       if (cod_list[x]["display"] != current_display_title) {
