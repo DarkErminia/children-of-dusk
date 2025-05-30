@@ -92,6 +92,8 @@ function keyword_match(string, keyword) {
 
 function render_timeline(years,keywords) {
 // Years and Keywords should be in a list.
+  console.log("Timeline Rendered.");
+  console.log(years,keywords);
   keywords = keywords.map(str => str.toLowerCase());
   for (let x in cod_list) {
       if (years.length != 0 && !years.some(item => cod_list[x]["year"].includes(item))) {
