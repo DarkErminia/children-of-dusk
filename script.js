@@ -111,6 +111,14 @@ function keyword_match(string, keyword) {
 	return word_regex.test(string);
 }
 
+function load_element(event_object) {
+	timeline_html += `<ul style="margin-left:${event_object["indent"]*5}%"><li><p>${event_object["text"]}</p></li></ul>`;
+	for (let x in event_object["sub-elements"]) {
+		load_element(event_object["sub-elements"][x]);
+	}
+	return
+}
+
 function render_timeline(years,keywords) {
 // Years and Keywords should be in a list.
   timeline_html = '';
@@ -132,7 +140,7 @@ function render_timeline(years,keywords) {
 	  timeline_html  += `<p>${cod_list[x]["text"]}</p>`;
 	  indent = 0;
       } else {
-	  timeline_html += `<ul style="margin-left:${cod_list[x]["indent"]*5}%"><li><p>${cod_list[x]["text"]}</p></li></ul>`;
+	  load_element(cod_list[x]);
       }
   }
   
