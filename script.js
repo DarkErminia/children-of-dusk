@@ -112,14 +112,17 @@ function keyword_match(obj, keyword) {
 	keyword = keyword.toLowerCase();
 	keyword = keyword.trim();
 	keyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-	obj["text"] = obj["text"].toLowerCase();
+	let string = obj["text"].toLowerCase();
 	let word_regex = RegExp(`\\b${keyword}\\b`);
-	if (word_regex.test(obj["text"])) {
+	if (word_regex.test(string)) {
 		return true;
 	}
 	for (let x in obj["sub-elements"]) {
-		keyword_match(obj["sub-elements"][x], keyword);
+		if (keyword_match(obj["sub-elements"][x], keyword)) {
+			return true;
+		}
 	}
+	return false;
 }
 
 function load_element(event_object) {
