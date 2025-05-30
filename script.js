@@ -31,67 +31,72 @@
 	
 	
 	for (let x in proto_list) {
-		if (year_pattern.test(proto_list[x])) {
-	    	display = proto_list[x].slice(0,-1);
-	        year_counter = [proto_list[x].slice(0,-1)];
-	        indent = 0;
-	    } else if (title_flag == true) {
-	    	if (proto_list[x] != "\n-\t") {
-	        	let temp_list = proto_list[x].match(year_range_regex);
-	        	if (temp_list != null) {
-	            	year_counter = temp_list[0];
-	                year_counter = year_counter.split("-")
-	                for (i in year_counter) {
-	                	year_counter[i] = Number(year_counter[i]);
-	                }
-	                if (year_counter[0]<year_counter[1]) {
-	                	let temp_list2 = [];
-	                	for (let i = year_counter[0]; i<= year_counter[1]; i++) {
-	                    	temp_list2.push(i);
-	                    }
-	                    year_counter = temp_list2;
-	                }
-	            }
-	    		display = proto_list[x].replace(/:/g, '');
-	        }
-	
-	        title_flag = false;
-	    } else if (proto_list[x] == "\n-\t") {
-	    	indent = 0;
-	    } else if (proto_list[x] == "\no\t") {
-	        indent = 1;
-	    } else if (/\n.\t/.test(proto_list[x])) {
-	        indent = 2;
-	    } else if (proto_list[x].startsWith("\n")) {
-	    	title_flag = true;
-	    } else if (indent == 2) {
-	    	cod_list[cod_list.length - 1]["sub-elements"][cod_list.length - 1]["sub-elements"].push({
-	        	"text": proto_list[x],
-	            "year": year_counter,
-	            "display": display,
-	            "indent": indent,
-	            "tags": [],
-			"sub-elements": [],
-	        });
-	    } else if (indent == 1) {
-	    	cod_list[cod_list.length - 1]["sub-elements"].push({
-	        	"text": proto_list[x],
-	            "year": year_counter,
-	            "display": display,
-	            "indent": indent,
-	            "tags": [],
-			"sub-elements": [],
-	        });
-	    } else {
-	    	cod_list.push({
-	        	"text": proto_list[x],
-	            "year": year_counter,
-	            "display": display,
-	            "indent": indent,
-	            "tags": [],
-			"sub-elements": [],
-	        });
-	    }
+		try {
+		    if (year_pattern.test(proto_list[x])) {
+		    	display = proto_list[x].slice(0,-1);
+		        year_counter = [proto_list[x].slice(0,-1)];
+		        indent = 0;
+		    } else if (title_flag == true) {
+		    	if (proto_list[x] != "\n-\t") {
+		        	let temp_list = proto_list[x].match(year_range_regex);
+		        	if (temp_list != null) {
+		            	year_counter = temp_list[0];
+		                year_counter = year_counter.split("-")
+		                for (i in year_counter) {
+		                	year_counter[i] = Number(year_counter[i]);
+		                }
+		                if (year_counter[0]<year_counter[1]) {
+		                	let temp_list2 = [];
+		                	for (let i = year_counter[0]; i<= year_counter[1]; i++) {
+		                    	temp_list2.push(i);
+		                    }
+		                    year_counter = temp_list2;
+		                }
+		            }
+		    		display = proto_list[x].replace(/:/g, '');
+		        }
+		
+		        title_flag = false;
+		    } else if (proto_list[x] == "\n-\t") {
+		    	indent = 0;
+		    } else if (proto_list[x] == "\no\t") {
+		        indent = 1;
+		    } else if (/\n.\t/.test(proto_list[x])) {
+		        indent = 2;
+		    } else if (proto_list[x].startsWith("\n")) {
+		    	title_flag = true;
+		    } else if (indent == 2) {
+		    	cod_list[cod_list.length - 1]["sub-elements"][cod_list.length - 1]["sub-elements"].push({
+		        	"text": proto_list[x],
+		            "year": year_counter,
+		            "display": display,
+		            "indent": indent,
+		            "tags": [],
+				"sub-elements": [],
+		        });
+		    } else if (indent == 1) {
+		    	cod_list[cod_list.length - 1]["sub-elements"].push({
+		        	"text": proto_list[x],
+		            "year": year_counter,
+		            "display": display,
+		            "indent": indent,
+		            "tags": [],
+				"sub-elements": [],
+		        });
+		    } else {
+		    	cod_list.push({
+		        	"text": proto_list[x],
+		            "year": year_counter,
+		            "display": display,
+		            "indent": indent,
+		            "tags": [],
+				"sub-elements": [],
+		        });
+		    }
+		}
+		catch(err) {
+			console.log(err);
+		}
 	}
 	
 	render_timeline([],[]);
