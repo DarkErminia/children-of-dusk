@@ -3,11 +3,12 @@
   <body>
     <p>Filter Keywords (Seperate keywords using commas.)</p>
     <textarea id="keyword_search_bar" placeholder="Search Keyword Here..."></textarea>
-    <br><button onclick="keyword_search">Filter by Keyword</button>
+    <br><button onclick="keyword_search()">Filter by Keyword</button>
     <div id="main"></div>
   </body>
   <script>
     function keyword_search() {
+      console.log("Filtered by keyword.");
       let keyword = document.getElementById("keyword_search_bar").value;
       keyword = keyword.split(",");
       render_timeline([],keyword);
