@@ -64,6 +64,24 @@
 	        indent = 2;
 	    } else if (proto_list[x].startsWith("\n")) {
 	    	title_flag = true;
+	    } else if (indent == 2) {
+	    	cod_list[cod_list.length - 1]["sub-elements"][cod_list.length - 1]["sub-elements"].push({
+	        	"text": proto_list[x],
+	            "year": year_counter,
+	            "display": display,
+	            "indent": indent,
+	            "tags": [],
+			"sub-elements": [],
+	        });
+	    } else if (indent == 1) {
+	    	cod_list[cod_list.length - 1]["sub-elements"].push({
+	        	"text": proto_list[x],
+	            "year": year_counter,
+	            "display": display,
+	            "indent": indent,
+	            "tags": [],
+			"sub-elements": [],
+	        });
 	    } else {
 	    	cod_list.push({
 	        	"text": proto_list[x],
@@ -71,6 +89,7 @@
 	            "display": display,
 	            "indent": indent,
 	            "tags": [],
+			"sub-elements": [],
 	        });
 	    }
 	}
