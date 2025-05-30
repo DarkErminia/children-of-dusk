@@ -22,7 +22,7 @@
 	year_pattern = /\d{4}:/;
 	year_range_regex = /\d+-\d+/;
 	
-	proto_list = cod.split(/(\n-\t)|(\d{4}:)|(\no\t)|(\n)/);
+	proto_list = cod.split(/(\n-\t)|(\d{4}:)|(\no\t)|(\n.\t)|(\n)/);
 	proto_list = proto_list.filter(Boolean);
 	cod_list = []
 	year_counter = "";
@@ -60,6 +60,8 @@
 	    	indent = 0;
 	    } else if (proto_list[x] == "\no\t") {
 	        indent = 1;
+	    } else if (/\n.\t/.test(proto_list[x])) {
+	        indent = 2;
 	    } else if (proto_list[x].startsWith("\n")) {
 	    	title_flag = true;
 	    } else {
