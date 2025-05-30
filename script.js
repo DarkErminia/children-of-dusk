@@ -107,13 +107,19 @@ timeline_div = document.getElementById("main")
 timeline_html = '';
 current_display_title = '';
 
-function keyword_match(string, keyword) {
+function keyword_match(obj, keyword) {
+	let result = false;
 	keyword = keyword.toLowerCase();
 	keyword = keyword.trim();
 	keyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 	string = string.toLowerCase();
 	let word_regex = RegExp(`\\b${keyword}\\b`);
-	return word_regex.test(string);
+	if (word_regex.test(string) {
+		return true;
+	}
+	for (let x in obj["sub-elements"]) {
+		keyword_match(obj["sub-elements"][x], keyword);
+	}
 }
 
 function load_element(event_object) {
@@ -134,7 +140,7 @@ function render_timeline(years,keywords) {
       if (years.length != 0 && !years.some(item => cod_list[x]["year"].includes(item))) {
 	continue;
       }
-      if (keywords.length != 0 && !keywords.some(keyword => keyword_match(cod_list[x]["text"], keyword))) {
+      if (keywords.length != 0 && !keywords.some(keyword => keyword_match(cod_list[x], keyword))) {
 	continue;
       }
       if (cod_list[x]["display"] != current_display_title) {
