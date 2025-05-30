@@ -92,6 +92,7 @@ function keyword_match(string, keyword) {
 
 function render_timeline(years,keywords) {
 // Years and Keywords should be in a list.
+  timeline_html = '';
   console.log("Timeline Rendered.");
   console.log(years,keywords);
   keywords = keywords.map(str => str.toLowerCase());
