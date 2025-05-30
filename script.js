@@ -83,10 +83,11 @@ current_display_title = '';
 
 function keyword_match(string, keyword) {
 	keyword = keyword.toLowerCase();
-    keyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    string = string.toLowerCase();
-    let word_regex = RegExp(`\\b${keyword}\\b`);
-    return word_regex.test(string);
+	keyword = keyword.trim();
+	keyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+	string = string.toLowerCase();
+	let word_regex = RegExp(`\\b${keyword}\\b`);
+	return word_regex.test(string);
 }
 
 function render_timeline(years,keywords) {
