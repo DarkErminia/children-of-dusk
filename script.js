@@ -66,7 +66,7 @@
 		    } else if (proto_list[x].startsWith("\n")) {
 		    	title_flag = true;
 		    } else if (indent == 2) {
-		    	cod_list[cod_list.length - 1]["sub-elements"][cod_list.length - 1]["sub-elements"].push({
+		    	cod_list[cod_list.length - 1]["sub-elements"][cod_list[cod_list.length - 1]["sub-elements"].length - 1]["sub-elements"].push({
 		        	"text": proto_list[x],
 		            "year": year_counter,
 		            "display": display,
