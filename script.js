@@ -112,7 +112,7 @@ function keyword_match(obj, keyword) {
 	keyword = keyword.toLowerCase();
 	keyword = keyword.trim();
 	keyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-	string = string.toLowerCase();
+	obj["text"] = obj["text"].toLowerCase();
 	let word_regex = RegExp(`\\b${keyword}\\b`);
 	if (word_regex.test(string)) {
 		return true;
