@@ -600,6 +600,10 @@ Though everyday speech is generally fine, some cultural references, and subtle n
 
 The Galactic Government (Galov)
 
+"The Two Iron Principles:
+1) Cognition is sacred. Thou shalt not degrade or dehumanize that which bears the mark of the Imago Dei. Humans, sophonts, all thinking beings.
+2) All cognitive beings must have free will, even against their consent. Once cognition (Imago Dei) is given, it cannot be taken back. We must ensure their freedom to choose, until that choice violates the Imago Dei."
+
 The flag of the Galov is "The International Flag of Planet Earth", but with the Blue swapped for a dark pale purple. The 7 rings represent the 7 Tribes of Humanity. Humorously, it is said every single tribe claims its own tribe is the one in the center.
 
 In an era where humanity is extremely divided by nationality and ethnic group, the one thing that can unify appears to be religion. And in this universe, there is actually a single entity that does claim the right of "Galactic Government", though their reign is very loose. Nations and worlds can and will defy the orders of the Galactic Government, and ultimately the Galactic Government can only pressure a world to do as they wish with military force.
@@ -651,6 +655,16 @@ Due to the extreme decentralized nature of both the Galov, but also the peacekee
 
 There's also the Transcribers Union, whose goal is to manage to culturally translate the religious works of the Great 5 and standardize their beliefs across every language, biology, psychology, etc. One of their greatest jobs is to transcribe a human-centric, Earth-centric religion (For example, Christianity) to millions of potential xenosophonts, and every configuration of human and transhuman possible across the galaxy. Digging into the purpose of metaphors, and finding appropriate equivalances in other cultures.
 Notably, even this structure has severe blindspots. They have only moderate influence over the Sinocrats, who act mostly independently, they have a weak primarily cultural hold over the Sea People, and absolutely zero leverage against the Black Earthers. All nations act autonomously, or even independently at times, and they only have the ability to influence the galaxy, not govern it. They have no sway over the Diamond Belt, which are their own separate power bloc.
+
+The Galactic Overseer:
+The de-facto head of the Galov, elected from among the 5 faiths. About 40% of the time, the Overseer is elected from the Christian Moralintern, which is considered the most influential of its 5 faiths within the Galov. The rest of the time, the Overseer may be an agnostic or irreligious technocrat, a military leader, or from the other 4 Unifaiths. The distribution looks a bit like this.
+40% - Moralintern based.
+20% - Hindu
+15% - Buddhist
+10% - Islamic
+10% - Neutral Technocrat/Military Leader
+5% - Inexplicably, Jewish. Though normally through the avenue of "Neutral Technocrat".
+Interestingly, the Catholic Church has never seated one of their own as the Galactic Overseer, as they do not believe in appointing positions above their own Pope, and for obvious reasons, the Pope himself would not accept such a position. Instead, the Catholics serve as kingmakers, swaying its own votes for maximum concessions from the other factions.
 
 How the Galov Works:
 The Galov maintains a larger scale than any single empire. Due to the fact that instead of nationality, or administration, the Galov's authority is derived from religion. And religion, generally speaking scales up much better than administration or ethnicity. The largest empire outside of the Galov, built on a more traditional empire model is likely the Celestial Kingdom, which contains about 4% of the human population. In comparison, the Galov is estimated to have about 15% of the galaxy's military power. (Both due to higher quality forces, but also because the Galov is able to draw on a thin wedge of a much larger pie. As well as the fact that the majority of states need to spend on social programs, while the Galov is primarily focused on military matters.)
@@ -860,6 +874,14 @@ The Lilith Belt, much like the Diamond Belt, is another string of worlds control
 -Oridiversal Union (Refugee center for those of alternative orientations and allied groups. Is seen as more amicable than the other groups of the Lilith Belt.)
 -Gem Fragments (Refugees from the Diamondgrass Dynasty, just radical transhumanist ethnonationalist extremists.)
 
+Gender and Sexuality in the Human Diaspora:
+The terminology usually associated with the modern LGBT movement have been lost, being burned away as part of the system of the Lotus Eaters by the Neo-Asceticists. Modern reconstructions of the acronym have mistakenly reconstructed it as "BGLT", because "it's in alphabetical order, why wouldn't it be?" and led to much confusion. "Why are the T grouped with the LGB? They're two different categories." Leading to many to hypothesize they must have mistranslated it. The modern understanding of "transgender" is that it does not refer to people who want to change their genders (Now known as transversals), it's a mispelling of "transsexual", as in one who is attracted to transgender people. But this also runs into questions of why exactly such a niche category was included when much larger orientations (pansexual, asexual) were excluded.
+Though save an altering in the human genome and a broader alteration of human behavior, the terms needed to define the old LGBT community have largely returned, though in different form. Orientation is firmly seperated from gender identity, as they have become two different things.
+On the gender/sex question, there is no universal view on gender. (Pretty much all of the 7 Tribes, and the probable 1,000,000+ subcultures have their own opinions.) The question of manhood or womanhood is largely determined by your sex at birth, and any expression of your personality was largely a cultural question you can change. The Galov already allows for much cultural diversity, so the need to "change one's gender expression" would largely be interpreted as a desire to change one's cultural practice. If you wanted to present as non-binary, or express yourself in a different way, it would be incorporated as cultural choice, not so much a debate on sexual norms more generally. You're biologically a man or a woman, and gender expression is seen as a weird, non-sequitor. "... Of course you can express yourself differently, just watch out for pushback from your home culture. What does this have to do with sex or gender?"
+Transversals, people who intentionally try to switch their sex are generally grouped together with transhumans, and are seen as weird. Think people who wear red and green neon clothing, or full body tattoos. Weird enough to dislike, but kind of too incidental to hate.
+And on orientation, the new terms somewhat borrow from neurodiversity terms. The term for the collective of gay, lesbian, bisexual, pansexual, etc is "oridiversial", short for "orientation-diverse". And the term for heterosexual has now become "orinormal", or "oritypical". Though generally speaking, most straight/heterosexual people see these as exotic, strange technical terms. "I'm just attracted to the opposite sex, didn't know that was the technical term, I guess." Terms such as gay, lesbian, etc have survived the Damnatio Memoriae, as they predate the 1990's, though many of the more abstract and niche terms that emerged post 2010 have been lost to history.
+Acceptance of these groups varies greatly from world to world. Most religious institutions condemn them and have great suspicion of oridiversal groups, though some confused neutrality about gender expression. "Yeah of course you can change your culture, what does this have to do with gender?" Oridiversial individuals exist among most cultures, though their suppression/acceptance varies greatly.
+
 The Neurohumans, and the Augments:
 "God has made you different, and that is beautiful. Just as I may have been made with different skin than my peers, or different hair, or different height; so too, has God given you your own gifts. Let every limitation become a gift, and let every hardship become motivation, to push the boundaries a little harder." -Moral Overseer of the Moralintern, addressing a crowd of Neurohumans and Augments.
 The Neurohumans and the Augments are one of the stranger aspects of the Galov. Where others see a crippling condition, the Galov sees a gift. A chance to strap something new there where they wasn't before. Neurohumans (known as Neurodivergents in previous eras) are used to oversee much of the Orhuman program, detailed later in this document. They're prized for alternative perspectives, yet also scrutinized to ensure correspondance to reality.
@@ -878,6 +900,13 @@ Plurality Mandate:
 "Instead of a fixed purpose, like the animals of Eden, God instead gave humanity free will. The greatest of all gifts."
 The Galov defines human plurality as the multiplicity of mankind. That all humans are defined in part by their plurality, that while they may be good at music, combat, or any number of other skills, they they have the possibility to do more. They believe this pluralism is a inherent part of the Imago Dei, that all men, should have the choice to choose what they become, not have it assigned to them at birth by genetics.
 Those who notice the Plurality mandate often accuse the Galov of hypocrisy. You hypocrite, did you not create the Transhumans, and the Orhumans for this very purpose? And while they will get defensive, the Galov will counter with two main facts. One, the transhumans were the tribes, not them. But second, that just because the transhumans were made for a single environment does not make them less plural. They feel, they love, they make art and sing great songs. They create, they build. Same with the Orhumans. No matter what purpose they were made to do, and what environment they were made for. They are capable of more than just their job. They are human, at least in some sense. They are categorically different from the monohumans.
+
+The Monohuman Controversy:
+One of the most dangerous moments in Galovian history, was when three of its 5 Unifaiths became embroiled in conflict over Monohumans. When the Galov approved its edict on Monohumans, those who pushed hardest for it was the Moralintern, who at the time held the Galovian Overseer position. The Monohuman edict was controversial, and pushed almost entirely by the Christian factions within the Galov. When the vote finally occurred, it was largely the Moralintern fanatically supportive, the Catholics more moderately supportive, and then the Muslims and Buddhists abstained. The Hindus were against, as they saw monohumanism as a legitimate lifestyle choice, defensible under the human dignity edict, and related it to their own caste specialization system, trying to veto it. The Moralintern, finding this unacceptable lobbied hard to override this with an "executive override", getting both them, the Catholics, and the Galactic Overseer to effectively overrule the Hindu veto. Normally, the 5 faiths needed unanimous support, but in an emergency, they were able to get by with a simple majority. Something which was aggressive, and while allowed, was disputably legitimate, and beyond the boundaries of previous precedent.
+While the Galactic High Court remained in session, the Galov now had an official mandate to go out and "pluralize" the monohumans, meaning to go forth and enforce plurality onto them. The Hindu temples, which had engineered their own complient caste humans, offically began granting refuge in their home systems, and across all World Dreamer space. Various monohumans began hiding out in World Dreamer space, especially at the Hindu's capital system of Akshara. The Moralintern argued from a position of Imago Dei, that genetic violation of plurality was a violation of human dignity, while the Hindus argued from a position of Free Will, that this was moralistic overreach, and outside the normal mandate of human dignity. These two were the two core principles of the Galov. Classically, when the two came into conflict, it was traditional that Imago Dei superceded Free Will, to override things such as consentual slavery. But the Hindu argument here was that there was no Imago Dei violation.
+The Galactic Peacekeepers were dispatched with orders to capture and rehabilitate the monohumans, as an enforcement to reinstate human dignity, but local officers disobeyed orders, seeing violations of Free Will, especially among Hindu-majority units. With civil conflict breaking out among the Peacekeeper core, and conflicting orders from the top down. In light of the current administrative paralysis among the Peacekeepers, the Moralintern mobilized their own peacekeeper corps and authorized them under the argument that the Galactic Overseer was allowed to authorize mercenaries to fight on the Galov's behalf, designating them as temporary mercenaries.
+The Moralintern Peacekeepers made it to above Akshara orbit, and were fired upon by the authorities of Akshara itself, sparking what seemed to be a Galovian nightmare, an open war between two of the Galov's unifaiths. The skirmish of Akshara was minor, only resulting in a few casualties, but the symbolic risk was far greater than the actual casualties. An emergency session was held, and both the Catholics, Muslims, and Buddhists issued calls to de-escalation and beginning negotiations. The Hindus demanded an apology for the executive overreach and a retraction of the Monohuman edict, to which the Moralintern refused. Pressure from the other 5 Unifaiths continued, with the Moralintern adopting a moderate, compromising strategy in order to make themselves look reasonable and the Hindus like fanatics, especially given that many of the other unifaiths saw the monohumans as glorified genetically engineered servants and labor exploitation anyway.
+In the aftermath, the Moralist Galactic Overseer was pressured to step down, and in the chaos, eventually a new compromise candidate was elected from the Muslim faction, a compromise candidate but harsh enforcer of justice, who was judged to be satisfactory to everyone's needs. The official mandate to pluralize monohumans stayed in place, but became conspiculously downplayed, one of those things you know is a law, but the government is reluctant to enforce afterwards. The Galactic Court also eventually came back with its ruling, that the monohuman edict was fair ruling consistent with the Galov's principles on Imago Dei and Free Will, and that repealing or enforcing it was the responsibility of the Galov itself.
 
 The Orhumans (Orthogonal Humans)
 "Diversity is not a defect. They are a tool, and a weapon. Diversity and complexity, both ways we glorify our creator. Let us cultivate the garden which they grow, let Darwinism dictate the ones which survive, and let the two Iron Principles dictate the weeds we prune."
@@ -906,9 +935,9 @@ Half this stuff is, super classified. Because as it turns out, the Galactic Gove
 --Dreamspeakers (Those who speak with images rather than words.)
 --One-Minders (Those who think like one collective consciousness with no individualism. This is evolutionarily screwy, but the Galov (Galactic Government) keeps them around for alternative perspectives.)
 
-Discoveries of the Galactic Government:
+Mini Universes:
 
-Humans are mini universes. That is what a soul is, a mini-universe compressed into a body. The imagination engages in creation every time they engage in thought. The exact "volume" of these mini universes is not entirely known, but is estimated to be around moon or planet sized. The life one lives and the creations and the dreams they envision get carved into their "mindscape".
+Humans are mini universes. That is what a soul is, a mini-universe compressed into a body. Thoughts compressed into a ball until the thoughts take semicorporeal form. The imagination engages in creation every time they engage in thought. The exact "volume" of these mini universes is not entirely known, but is estimated to be around moon or planet sized. The life one lives and the creations and the dreams they envision get carved into their "mindscape".
 
 One's mindscape is developed as they create more and more. Some mindscapes remain largely undeveloped, and their remaining creative energy is passed on to the next generation. But rarely, one will get a rich, internally developed world. In what is known as "complete" universes. The connections one makes creates a bridge between these worlds, bits and pieces of their worlds end up in one another. When a person dies, the creative energy gets recycled back into the Noosphere, freed up to make new worlds, though these worlds still survive in some form.
 
@@ -1039,7 +1068,7 @@ Humanity is probably aware that the Central Empire, as expansive and of unknown 
 
 Subservient Races:
 The Meta-Men maintain a massive collection of "subserviant races". Who the Meta-Men have uplifted and brought to dominance. If the Metamen are the quality over quantity, these races provide the average foot soldier, the grunt work, providing numbers where the Meta-Men lack numbers. As there are less than 10 million Meta Men, with each one holding down around 10 worlds, the Central Empire is holding down about 100 million worlds. The Meta-Man is a leader, and that world's protector, but they also have governments and bureaucracies made up of the subservients under them, with the Meta-Man acting as an absolute monarch, though even he is liable to the Central Imperial Court, and can face punishment for their crimes.
-Despite this clear subserviant position, most subserviant races are somewhat grateful for the Meta-Men. The Meta-Men's Darwinistic philosophy demands that they take on greater hardships than their subjects, that they do all the fighting, and provide a majority of the planet's protection. Though the subserviants are subjects, they are subjects to be protected. They are utilitarianly useful for the Empire, and it is the responsibility of the Meta-Man in charge to keep them in line, but also to keep them fed, productive, and alive.
+Despite this clear subserviant position, most subserviant races are somewhat grateful for the Meta-Men. The Meta-Men's Darwinistic philosophy demands that they take on greater hardships than their subjects, that they do all the fighting, and provide a majority of the planet's protection. The Central Empire runs on a philosophy of "noblesse oblige", and takes the philosophy "with great power comes great responsibility" seriously. They explicitly say the well being of their subjects is the Meta-Man's responsibility. Though the subserviants are subjects, they are subjects to be protected. They are utilitarianly useful for the Empire, and it is the responsibility of the Meta-Man in charge to keep them in line, but also to keep them fed, productive, and alive.
 Some of these subserviants have even trained to the degree where they can become Meta-Men fighters in their own right, though this is extraordinarily rare.
 
 Star Fighters:
@@ -1062,6 +1091,41 @@ Hardening can also be used to overcome g-forces, mostly just by physically holdi
 
 Matter Trawlers:
 Especially among those who lived near, or among the Matter Singers, some humans have managed to replicate some level of matter singing, or "trawling". Effectively harnessing diffuse material from the Matter Singer's "trawlspace". As the amount of material available is fundamentally dependent on gathering new material from new spaces (trawlspace has a one to one correspondance to realspace), "trawl-based" combat techniques, where one must frequently summon new weapons from trawlspace must fundamentally rely on speed. More speed/velocity = faster trawl rate = ability to craft more weapons. As a result, matter trawlers favor an extremely high velocity, high movement amount of combat.
+
+Channeling:
+The human equivalent to matter trawling, which is dependent on speed and breadth, is channelling. Which is dependent on willpower and imagination. It draws matter from the Noosphere, manifests it into physical reality, but then back to the Noosphere it returns. The act of channelling is somewhat comparable to the tree of life, and in fact the tree of life is used as a useful framework. Channelling is just as much an martial technique, an artform, but also a state of mind and mental philosophy.
+Though this framework is primarily for manifestation, an essentially magical artform, many channelers also find this framework useful not only in channelling, but planning and carrying out actions in general. Some in fact call the mundane act of carrying out actions effectively the same as Noospheric manifesting.
+(Prime Source)
+0 - Potential. This is the natural stasis of your mind, the dorment potential that rumbles passively. It simply is, and remains inert until you call on its potential. It was always there, but it does not get invoked until explicitly called.
+(Concept Phase) The shaping of the concept, defining "what" it is.
+1 - Inspiration. The call for the concept to begin taking root. The initial "Aha!" that calls it out of the stasis state of innate potential. From the infinity of potential actions and begins descending it into the finite world of invoked actions.
+2 - Understanding. Shaping the inspiration using other internally held knowledge. Names, archetypes, associations, giving it shape through knowledge. Once it is given a name and a identity, you now have a...
+3 - Concept. The fuzzy shape of an idea is now in place. It now transitions from the concept to the viability phase.
+(Viability Phase) The viability of the concept, weighing whether it can be.
+4 - Idealism. The concept greatly expands to its maximum extent, becoming the most extreme, idealized version of it.
+5 - Limitation. The idealism is constrained by the limitations and harsh reality of the real world, tempering it and casting doubt.
+6 - Viability. The clash between idealism and limitation synthesize into viability, at neither the extreme optimism nor pessimism of the spectrum.
+(Planning Phase) Now you begin becoming aware of the limitations and interactions of the self. This is the point where it begins interacting with self awareness.
+7 - Emotional. How does this interact with the self emotionally? Begin preparing the self emotionally.
+8 - Logical. How does this interact with the self logically? Begin preparing the self logically.
+9 - Consolidation. The concept is now ready to execute. It has been consolidated, and both the user and the concept to be willed into being are in ready condition. The mind goes still, the body goes calm. Fire when ready.
+(Execution and action)
+10 - Execution and action. The action is finally carried out. The concept is manifested.
+Many channelers stop here, becoming blind outlets of raw emotion, but more experienced channelers know that the process back is just as important as the process here. As the process back improves your own clarity of mind, and maintains balance. From the Prime Source it came, and to the Prime Source it must return. Channelers cannot hold these concepts in physical reality for long. The only question is whether you will let it flow back with grace, or whether its disappearance is out of your control.
+(Evaluation)
+9 - Evaluation. How well did the concept get executed compared to your consolidated expectation?
+8 - Logical Deconstruction. Deconstruct the logical basis and interactions between the self and concept.
+7 - Emotional Deconstruction. Deconstruct the emotional basis and interactions between the self and concept.
+(Bayesian Adjustments)
+6 - Re-Examine Viability. How did it actually vie compared to expectation?
+5 - Re-Examined Limitations. Reorient and recalibrate your view on limitations.
+4 - Re-Examined Ideals. Reorient and recalibrate your view on idealism.
+(Updating Priors)
+3 - Recontextualize Concept. Now that the execution and action has been completed, how do you now see the concept? Is it different?
+2 - Knowledge Learned. What new knowledge and understanding has now been learned from the experience?
+1 - Filing Away. Placing the concept back in storage, so it may rejoin the prime source of potential, until it is called upon again.
+(Prime Source)
+0 - Potential.
 
 The attempt to mechanize psychicism:
 Ever since psychicism has been discovered as a fundamental force, the Galov, and several private corporations have been trying to utilize it as a new mechanizable force. If psychicism can be extracted from humans, can't we industrialize it, or farm it? Imagine the good we can do if psychicism could be mass produced.
@@ -1088,7 +1152,7 @@ The traditional uniform of the Peacekeeper is all white. Camouflague is used in 
 
 The Galov Agent Worship Problem:
 One of the issues of the Galov making first contact with many alien species, landing human agents who are capable of eradicating disease, purifying water, and producing fantastical technologies. Who literally come on rocket ships from the sky, and may have psychic powers or tech that can level mountains is that less developed xenosophonts, or heck, even advanced xenosophonts have the tendency to worship them as a god. There was a fairly developed late information age xenosophont species that Galov agents landed on, where one guy requested to meet with the local government, but also cured enough diseases and gave out enough help on the way that a fully industrialized late information age society began forming cults of worship around them.
-It only gets worse with more primitive species. Entire tribes of less developed societies have actually mistaken the humansa s their gods. And to be fair, it's hard to blame them when they cure plagues, solve famines, and come down in literal fire chariots of gold and silver. Much less than try and avoid contact, the Unifaiths of the Galov have begun leaning into the god angle. But instead calling themselves "ambassadors to God".
+It only gets worse with more primitive species. Entire tribes of less developed societies have actually mistaken the humans as their gods. And to be fair, it's hard to blame them when they cure plagues, solve famines, and come down in literal fire chariots of gold and silver. Much less than try and avoid contact, the Unifaiths of the Galov have begun leaning into the god angle. But instead calling themselves "ambassadors to God".
 Essentially, they take advantage of the messianic complex and then use their reverence from the population to deflect it towards their own vision of the divine. "We are strong, but we are not gods! We are emissaries of an even greater power, if you fear us with our own power, imagine how great the power of our God is. We are not spiritual superiors, we are spiritual equals, and God wants you to know that he loves you as well."
 Pretty effective sales pitch.
 
@@ -1494,6 +1558,7 @@ Unibrands:
 For most worlds, brands and corporations are planetary scale, hyper regional affairs. But a few brands manage to cross not only the planetary barrier, but jump to interstellar scales, with their market encompassing a large part, or even all of human space. These are referred to as "Unibrands".
 When you become a Unibrand, you also become a target for the Galov. The Galov does not have the resources to enforce its rules on every brand of the numerous planets, but for the Unibrands, you become a target and a focus. As such, the Galov mandates that all Unibrands must provide things such as healthcare, fair wage, and reasonable pension packages. ("Merchants must provide safety nets".) The Galov does not require Unibrands to cover unemployment for their laid off employees, as that created an incentive to kill off your ex-employees, or make it impossible to quit, which the Galov realized was a bad incentive, and they reversed.
 To have the Unibrands make it in their best incentive to spread social safety nets, the Galov gave them one extra incentive. They could only expand to a world, and tap into their markets, AFTER they had lobbied the planetary government to sufficiently align with the Galov's position on safety nets.
+"No! Don't you understand? We're not allowed to sell a single soda until YOU raise the minimum wage and improve working conditions. The Galov will atomize us if we even try to expand, or at least drag us into an extremely expensive lawsuit. So you had better get that healthcare bill passed, or we're funding a mercenary death squad to coup your government and install social democracy!"
 
 The Galov Peacekeepers and Galov-Affiliated Mercenary Groups:
 The Peacekeepers are the official army of the Galov. Drawn as volunteers from numerous allied worlds, in exchange for those worlds getting first priority for defense and Galov attention. The Galov Agents are a specialized group, similar to Navy SEALs or Delta Force. And you have mercenary groups, for when the Galov needs specialization, or just someone to do some work off the books.
@@ -1551,10 +1616,10 @@ Average Galov AHI: ~120,000
 Early 21st century Earth: ~225,000
 Strongest Galov AHI (Procyon Ixielmind): ~1,000,000
 Strongest Known AHI: ~10,000,000 (~1.00E+7)
-Galov Era Humanity (Terrans only, extremely pluralistic): ~1.10E+10
-Galov Era Humanity (Transhumans only): ~6.39E+09
-Galov Era Humanity (Orhumans only): ~3.14E+05
-Galov Era Humanity (All three together + Chaos Theory + Chaotic Interactions): ~2.43E+10
+Galov Era Humanity (Terrans only, extremely pluralistic): ~3.48E+10
+Galov Era Humanity (Transhumans only): ~2.02E+09
+Galov Era Humanity (Orhumans only): ~9.93E+05
+Galov Era Humanity (All three together + Chaos Theory + Chaotic Interactions): ~7.68E+10
 The Master-Quadrark: ???? (Who the hell knows?)
 
 The reason that the Galov ensures the existence of Orhumans, human biodiversity, even the existence of highly orthogonal xenosophonts is to continuously inject "random noise" into human decision making, with a vastly multiplicative effect to make humanity and its allied species an extraordinarily difficult problem to model.
@@ -1582,7 +1647,7 @@ One of the crazier conjectures theorized by Orthogonality theorists, the Busy Be
 3. The conjecture is that roughly, the complexity and intelligence of a N-orthogonal intelligence is roughly preportionate to BB(N).
 The Galov uses this to explain the failure of early AIs. "Imagine finding the largest busy beaver game for N, rather than finding a "good enough" game for N+1."
 And with this, the following conjecture was produced.
-"With this, we can estimate the total potential of humanity, is lesser than or equal to, but not strongly lesser than or equal to, BB(2.43E+10). Or in other words. P(H) <= BB(2.43E+10). But P(H) !<<< BB(2.43E+10)"
+"We first define a rough constant, N, which are the units to handle the conversion from busy beaver units to orthogonality units. With this, we can estimate the total potential of humanity, is lesser than or equal to, but not strongly lesser than or equal to, BB(2.43E+10)N. Or in other words. P(H) <= BB(2.43E+10)N. But P(H) !<<< BB(2.43E+10)N"
 "Jesus f---ing Christ."
 "The Internet was already the eldritch superintelligence of the past. It has only gotten bigger and more complex since."
 
@@ -1619,6 +1684,11 @@ Where the Galov dollar fails, either because it's just not accepted, or because 
 There is one small problem with this. These coins are technically bombs. If you channel enough energy into them that it overcomes the photonic binding force, all the energy holding it together, on top of all the light it contains, comes loose at once. To get around this, the Galov uses "super-hard" light, which only breaks down around 2 TRILLION Kelvin. If you are carrying around a coin of that level of energy, you have much bigger problems. These credits are basically pointless to forge, super-hard light technology is only available to galactic superpowers, and if you genuinely spent that much energy dumping starlight into a coin, then congrats, you've kind of earned it.
 There's also less hard variants used where an ordinary planet could probably release the energy in something akin to an industrialized furnace or nuclear power plant. It's "backed" in the sense that if you really wanted to, you can heat the token enough and get the light energy back, used to power a light reactor plant, or whatever you want to do with it.
 Despite this, the Galov much prefers to use the Galov dollar than the hard light tokens. For one, tokens are heavy, warm, and at this point, dangerous. The Galov understands basic economics and prefers fiat currency compared to more rigid "light-backed" currency. It lets them tinker around more with quantitative easing and creating money just by writing stuff on a spreadsheet. Way easier than minting new sun-coins. But if they're dealing with a world who wants "hard" cash and doesn't care about the Galov's soft currency, they have a backup.
+
+Labor Certificates:
+For those who think hard light is too inflationary, or just too cheap, or too rapidly devalued by the rapid rise in productivity, the Galov has another backup certificate. The Galov controls many, many Peacekeepers and numerous government employees. And labor certificates are effectively IOUs measured in standard labor-hours rather than anything material. Granted, not all hours are the same, there are multipliers so 8 hours with a janitor isn't the same as 8 hours with a high ranking bureaucrat. For example, a Galactic Peacekeeper, a standard soldier who is nevertheless well trained may be valued around 3 standard labor-hours per hour. But in general, this is yet another currency that pegs a currency to labor and time as opposed to something material.
+Labor certificates, like everything else in this economy, has an date of issuement, and a little tab used for carbon dating. The official value of the labor certificate also depreciates 2% every year. A labor certificate for 72,000 labor hours is enough to call in about 1,000 peacekeepers for one day. Of course, the Galov reserves the right to postpone or delay payment due to various astropolitical events or extreme circumstances. Galov employees have the right to refuse unsafe or degrading work.
+There has been at least one incident where some guy paid a peacekeeper to give him a foot massage. It was consentual and everything, but bewildering.
 
 The Galactic Central Bank:
 The Galactic Central Bank is yet another incentive for planets to align with the Galov, and to begin paying the planetary tithes. On top of priority Peacekeeper Protection, they also gain the ability to get loaned to and bailed out by the Galactic Central Bank. As the Galov Dollar is the effective reserve currency of the galaxy, being able to be backed up and lended out by the largest bank in the galaxy, and the only one which can manufacture from fiat Galov dollars is a fairly large advantage.
@@ -1919,6 +1989,21 @@ The Constructors do not know how Lucifer was constructed, only that after he was
 The Archilects also revolted in a galaxy wide machine rebellion. Despite being one person, and fighting against 2 major races, the Constructors revealed that Lucifer won. They state back then, he had an ability called the Chronalis, which allowed him to repeat events as many times as he wished, turning the entire period of time into a Luciferian kingdom. Using this, he began a galaxy wide genocide of the Archilects, enslaving the Constructors to build the Luciferian Empire. It was the Constructors who built the Prime Solver, the most advanced supercomputer made both then, and since as a tool. As little more than just a vanity project.
 For several thousand years this hellish reign continued, of endless agony and servitude against a lord who cannot lose and cannot die. Mercy finally came when Lucifer grew so audacious as to declare himself lord of all. And according to the Constructors, God and his angels bounded Lucifer, but not before the ensuing battle had rendered the universe near extinct.
 The Constructors say that mankind reminds them of the Luciferians in their prime, before they began to fuse, began to turn into something evil. They tell humanity to learn from the mistakes of the past.
+
+Dreamspace, and the Noosphere:
+Each person is an miniature universe, a rich, internal universe. These are known as "Inner Noospheres". In animals, these inner worlds are mostly disconnected, only thin strands emerging as they find friendship and companionship, though rarely true understanding.
+When two thinking entities interact in a meaningful, emotional way, they begin to build a bridge between their two inner universes. With the advent of language, culture, and human language, this web of human connection came to expand larger than even the inner constituent Noospheres that make it up, becoming known as the "Outer Noosphere", persisting even as the inner Noospheres were born, matured, and died.
+Noospheres are loosely 1:1 mapped with physical reality, but can reach expanses which are beyond comprehension. Even the mind of a single person may be an ocean or a universe in of themselves, and entire expansive inner worlds can fit into Noospheric pockets the size of a quarter from an outside observer. Some are completely closed, meaning they aren't accessible from the Outer Noosphere, yet from within, are expansive, persistant worlds.
+The entire Noosphere is deeply non-Euclidean, lines and distances stretch and bend, two universes light years far away from one another can both be intimately close to a third. The Earth as a whole is a massive Noospheric anchor, its many souls and thoughts projecting something akin to a great magnetic field in the corresponding Dreamspace. And so to do any other inhabited world. The brilliant glow of conscious multiplicity glowing in the Dreamspace dark in vibrant colors. Where there is life, whether a space station, artificial habitat, or inhabited world, there is a rich Dreamspace.
+Some universes serve as bridges. Humanity's thoughts are not intelligable to say, the thoughts of the Tonopeans, but the thoughts of the Europans, humans specifically genetically augmented to talk with both serves as a bridge between the two, connecting them together. The contiguous dreamspaces of humanity, and the contiguous space of all mutually intelligable xenosophonts they can eventually reach are known as a "Cognitive Space". There are many cognitive islands, slowly joining together into a great dream continent as humanity's ambition to understand advances ever further.
+Yet outside the worlds, outside the warm glows of cognitive color, far away from any inhabited space is the void. It is in the void, where space folds together, and one can get lost in the patterns and textures of near infinity (Just as cognitive space folds and unfolds, bending in a dream-like non-Euclidean way. Shrinking light years to intimacy, years to seconds, days to weeks, and micrometers to infinity.) one hears the void.
+It is here when Dreamers (Those who specialize in engaging with dreamspace) are most vulnerable. Incorporeal entities that enter only through thoughts and dreams, parasitic entities that seek to change, to harm, or in the worst case, to take over us. This is why Dreamers are put to rest during long journeys. Kept in an unconscious state, it is better, to preserve their minds through the long journey. Yet for those brave few who have the strength of will to keep their minds intact, and parasites out, they can hear the primordial glow of the universe itself. Some say in these cosmic echoes, they can hear the haunting words of God.
+The Dreamers, called psychics in centuries past pull memories out of the Human thoughtspace, preserving their memory for future consumption. Indeed, the Omnithecia, now the Lunar Library was made for this express purpose. Some memories however, removed from memory, too painful to ever relive. Expunged by some force greater than humanity itself. Some kind of cosmic redactor.
+
+Dreamspace FTL:
+People have indeed used openings in the Dreamspace in order to traverse quickly and easily between worlds. Dream-matter is entirely non-interactive with regular matter, meaning there is very little chance of contamination. As well, regular matter does not "hold itself together" well under prolonged exposure to Dreamspace, meaning anything they do build can eventually dissolve away. In contrast to Newtonspace, Dreamspace can be far shorter, at the cost of being far more chaotic.
+One can take a mental shortcut halfway across the galaxy, but due to the chaotic, non-Euclidean nature of Dreamspace, there is very little certainty where one may end up. Connections and travel is easiest between worlds with strong cultural connections, or intense familial ties, meaning it is best used to travel to culturally similar worlds. The primary benefit is Dreamspace potentially being far cheaper in terms of delta v, as well as time. Yet its primary downside is extreme unpredictability. Time and space itself bends in dreamspace, a 10 minute trip may take millennia, and 10 centimeters may turn into light years, or vice versa. And as it relies on the connections between mental universes, one can only traverse within the Contiguous Cognitive Space. It can only travel the known, never the unknown.
+It is for this reason Newtonspace has been vastly preferred as FTL, though some people, especially those who care little for the destination, or the timetable may opt for Dreamspace instead. 
 
 Concept Draggers:
 A more recent discovery. These are entities which are omnipresent, as in they have the theoretical capability to be anywhere, and manifest instantly, but can only manifest around people who have been exposed to Concept Draggers as a concept, using them as an anchor where they can manifest around, making them a cognitohazard. More worryingly, they became what people thought of them, making any perception incredibly dangerous.
@@ -2767,7 +2852,7 @@ Humanity on Trial.
 "We calculate a 99.99% chance of victory."
 "And the Galov still beat your ass at YD-Terrier-97 didn't they?"
 "They had ambushed us with technology we were not expecting. We have adapted."
-"And so will they! It's an arms race, who wins? 10,000 God-level AIs, or a chaotic galaxy of 30 quintillion? I don't know, but overestimating your chances of success doesn't exactly bode well for you."
+"And so will they! It's an arms race, who wins? 10,000 God-level AIs, or a chaotic galaxy of 40 quintillion? I don't know, but overestimating your chances of success doesn't exactly bode well for you."
 "Neither does appeal to an abstract ideal of human "pluck"."
 ...
 The resulting battles were fought into a stalemate. The Galov were unable to reverse engineer the portal to the other dimension, the Optimized Systems were unable to keep a foothold in the Galovian Milky Way. Eventually, cooler heads prevailed, and an exchange was proposed. The two would agree to disagree. Leave each other alone, seal off the portal, and let each other live in peace. Neither side was satisfied with this, both were giving up some level of their claim to universality, but unless they wanted to fight a transdimensional war, neither side had much choice.
@@ -2818,3 +2903,32 @@ After the year had passed, they gathered back in Citadel system where a portal a
 "See ya."
 (Portal closes)
 "... Huh."
+
+...
+
+"Hey, are the Terasophonts still there?"
+"Yeah, is this the Galov? How may we help you?"
+"We just realized, we have to warn you about some of the threats we face in our own timeline. Our timelines only diverged around the 2400's. So most likely, they're a threat in your timeline as well. Do you guys know about the Death Worshippers?"
+"The Death huh?"
+"Maybe you don't know them by name, we only named them after the divergence. But I'm almost certain your universe would have them as well. They've been f---ing with human history for a long time, all the way back into ancient days."
+"Oh yes, the Negtils."
+"... What?"
+"We know exactly who you're talking about. In our timeline, we call them Negtils, when the Utopia Wars happened, I think that's our equivalent of what in your Omnithecia is called "the Great Abundance Collapse", there was a faction of negative utilitarians that were massively influenced by them. We found the same trail of evidence that goes back to the 50,000's BCE. I assume you're talking about a group of incorporeal, anti-existence aliens, right?"
+"Yes."
+"We've been dealing with them as well. We've named them Negtils, shortened from the fact that we have identified their ideology as negative utilitarianism."
+"Well, if they're a threat in our universe, they're a threat in yours as well. Just recently, a small portion of our galaxy has been coulomb'd, stars had their coulomb constant fiddled with until fusion was completely inhibited. We've seen it happen to entire galaxies. We're almost certain it's them."
+"That's concerning."
+"The main reason we think they haven't wiped us out yet is because they're too spread out across the entire universe. Their weapons are strong, but they are, at least as far as we know, defeatable. They don't have god-tech we're unable to counter, in local skirmishes, we can fend them off. Their main advantage is scale, it looks like they may be multi-galactic at the minimum, possibly universal-pervasive in the worst case."
+"... Got it. We'll make sure to accelerate our Von Neumann harvesting initiatives, and make sure we're collecting enough resources to fend off the threat. We'll also inform the Metacivilization, and see if we can get their help."
+"What?"
+"The Meta-Men, as you call them went down a different path in our own timeline. They went wide instead of tall. They're currently in charge of the galaxy's largest polity, holding down an extremely decentralized pluralistic federation under them. Actually, they're kind of similar to you. I guess in our timeline, humanity was the one who built extremely tall, concentrating our forces into a smaller, but more defensible zone of space."
+"Got it."
+...
+"Oh, and Tera, I have another question."
+"Yes?"
+"If the Death Worshippers launched an all out attack on the Milky Way, and we needed to fight for survival, would you come to our aid?"
+"Of course we would. I assume you would do likewise for us, if the Negtils attacked us?"
+"Without a doubt. We're both human-derived sophonts, at the end of the day. We have to look out for each other."
+"It would not be difficult for us to relocate the entire Optimized Systems into your Milky Way in an emergency. So in case of a total collapse event, we can easily move our operations to your universe as a fallback. Maybe you can do the same likewise."
+"Uh... Unlikely, Humanity is far, far too decentralized for us to attempt that."
+"Ah. Shame."
