@@ -53,14 +53,13 @@ Pre 1990's, DML: None, nearly all of it has been well preserved.
 2300 to 2350: DML: None. (Almost immediately after the defeat of the Roasians, the Transhumanism Wars kick off again, this time into the 2nd Transhumanism Wars.)
 2350 to 2452, DML: Low, progressing to almost total. (Less than 100 chronological events are known from the era of 2400 to 2450. This is known as the "Great Abundance Crisis", only remembered in loose fragments, as well as the aforementioned "Book of the Damned". One of these events is the founding of the Neo-Asceticist movement, created in the year 2376.)
 2452 onwards, DML: None. (No further events were deemed necessary to expunge. The Neo-Asceticists disband.)
-2500's: Beginning of the Stellar Exodus. The Great Evangelism (2500-2600)
+2500's: Beginning of the Stellar Exodus.
 2700's: Great Cybernetic Revolt.
-2900's: Collapse of the 2nd American Republic. The last of the pre-Abundance political continuities. This marks the formal start of the age of the 7 Tribes of Terra, though others trace them as far back as the 2600's.
+2900's: Collapse of the 2nd American Republic. The last of the pre-Abundance political continuities. This marks the formal start of the age of the 7 Tribes of Terra, though others trace them as far back as the 2600's. The Great Evangelism (2900-3000)
 3000's: Conquest of the Great Khan. Near reunification of all of mankind, only stopped at the battle of Earth. The Great Assembly of the Faiths creates the modern Galov.
 3100's: Consolidation of the Early Galov. Instatement of Imago Dei, and Free Will.
 3300's: Second Defense of Earth. Imperial Era, crowning of the Governorship of Earth as Emperor.
 3400's: Destruction of Concept Draggers, Beginning of Conceptual Era.
-
 
 The Great Abundance Collapse:
 "Remember always. Abundance is poison. It will lure you in with false promises. Like a drug, it will put you to sleep." -The Galov.
@@ -777,7 +776,35 @@ Head: Similar to the Hindus, they just have a representative. The schools alread
 Organizational Structure: Inside the UBA, it consists further with organizations for each of the many schools of Buddhism, with the general exception of Western Buddhism, who tend to be too decentralized to join such an organization.
 Notable Efforts: Largely smaller faith outreach programs. They're effectively the Galov's PR organization when they need to do interfaith outreach to smaller or newer faiths. Basically, that nice, gentle faith that doesn't ask for much of anything, "we just want to do what's best for everyone" before the Muslims park their orbital cannons in orbit, the Hindus start setting up bureaucracies, the Moralist Christians begin figuring out how to enforce their ethics on you, and the Catholics quietly ask if the Moralists can dial it back to a 9 rather than a 10.
 
+Official Minor Faiths of the Galov:
+While these are not considered one of the 5 Unifaiths, they are given a seat on the table via the Galov Assembly and consulted, with their votes weighed based on population estimates. They're outside the 5 Unifaith veto-structure though, while a simple majority vote able to override them.
 
+Independent Christians:
+Most of these are Protestants that for one reason or another have decided not to affiliate with the Moralintern or the Catholic Church. Some just enjoy being independent, others have theological dealbreakers such as being non-Cayennian Christians. But there are others such as the Eastern, Coptic, or Great Orthodox Communion. Some of these are in association with the Moralintern, and the whole organization is more of a gradient. With a series of "core" Moralist churches near the center, largely derived from the Southern Baptist tradition, and then decreasing levels of association as you go outwards.
+
+Church of Latter Day Saints:
+The LDS Church has continued to survive into the 34th century, though ever since the destruction of their temple in Salt Lake City, are divided into three general denominations. Reform, Conservative, and Orthodox. They're a vast cosmic minority, but as one of the larger contiguous religious organizations out there, even in their fractured state, the Galov thought it pertinant to include them.
+
+Ba'hai:
+A pretty reliable ally of the general Abrahamic faiths, normally just there to promote cooperation and to have a seat at the table. Everyone generally likes them, no one really has an issue with them. On occasion, they'll get entire worlds zoned for Ba'hai inhabitation, a pretty big win for their communities.
+
+Jews:
+The only minor faith to have ever elected one of their own as a Galactic Overseer. It's an open secret how good they are at rising up in organized hierarchies, allowing them to punch well, well above their weight. Much of the Moralintern's bureaucracy and decision makers are Jewish Christian, or Messianic Jews. They have a few interests, defending Jewish interests, ensuring Jewish religious freedom, and encoding the Noahide Laws, at least where it does not violate religious liberty. That said, the Galov's framework for Imago Dei and Free Will generally already encapsulates most of that decently well.
+Always a little skeptical and paranoid, they try to be too useful to discard. Largely just by working even harder and becoming indispensible, and largely this has worked. They punch well above their weight, and generally fairly few think getting rid of them is worth the loss. It's usually a Jew, an irreligious person, or a Christian who ends up in charge of the Galov Central Bank. A Muslim tried to impose Islamic finance once... It did not go well.
+
+Shia Muslims:
+They have their own organization, though much of it is under the influence of the Sublime Dominion. The rest, known as independent Shias also gather to vote on things. The OIC has attempted to court them on several occasions, but they have asserted their theological autonomy on multiple occasions.
+
+Sikhs:
+Sikhs are even more of a warrior people than the Muslims, despite being a tiny portion of the population, they are extremely overrepresented in the Peacekeeper Corps. As well, the dedicated Sikh legions are one of the most renounced and awarded fighting forces in the galaxy, as well as making up a dispreportionate amount of the Galov's agents. On more than one occasion, Sikhs have made it to becoming Chief of the Peacekeeper Corps, one of the most powerful positions in the Galov.
+
+Irreligious/Humanists:
+It would be remiss to talk about the faith-based divisions of the Galovian government if we did not talk about people who held no such religion. In the early days, the Moralintern considering incorporating the irreligious as the 5th Unifaith, but found difficulty, as the irreligious, unlike other groups had no centralized leadership, nor even a strong sense of group. They eventually opted to instead court the Catholics, who became the 5th Unifaith. But since then, the Irreligious have served as a kind of shadowy 6th Unifaith.
+Secular people are overrepresented among the Galov's Researcher Corps, and to a lesser extent, their Technician Corps. Many Humanist organizations, either smaller time atheist, humanist, rationalist, or freethinker organizations are given representation in the Galov Assembly. In lieu of actual elections that spans every planet, an impossible task, the Galov generally just tries to consult what they think is the most relevant accessible organization, and then weighs their vote based on the population they think they representate.
+This is not without its downsides, as the vast majority of irreligious in the galaxy are not militant secularists, but instead apathetic.
+
+Divisions in the Galactic Peacekeepers:
+For the most part, the Peacekeepers are made up of "Mixed" units, pluralistic soldier corps intentionally blended to ensure harmony between the troops, and foster understanding. Though each faith is allowed a certain amount of "dedicated units", where explicitly religious requirements are made upon joining, and are more directly under the control of their respective faith. The amount of these dedicated units is generally weighed on that faith's population size, and comprises about 10% of the overall Peacekeeper corps. So you would have the great masses of mixed-peacekeeper units, but a few Christian, Catholic, Muslim, Sikh, etc units.
 
 The Council of Cayenne:
 The discovery of extraterrestrial life shocked the Christian world, leading to a scramble for a ecumenical consensus. What became a few isolated examples became a flood, as humanity came upon tens, and then hundreds of xenosophontic species. In light of this overwhelming discovery, the Christian churches convened for an ecumenical council for the first time in millennia, at the Council of Cayenne in the year 2671. Chosen for its symbolic location in the New World, but also its close proximity to the American Spaceport in now American Guiana.
