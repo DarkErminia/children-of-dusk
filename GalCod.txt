@@ -53,7 +53,7 @@ Pre 1990's, DML: None, nearly all of it has been well preserved.
 2300 to 2350: DML: None. (Almost immediately after the defeat of the Roasians, the Transhumanism Wars kick off again, this time into the 2nd Transhumanism Wars.)
 2350 to 2452, DML: Low, progressing to almost total. (Less than 100 chronological events are known from the era of 2400 to 2450. This is known as the "Great Abundance Crisis", only remembered in loose fragments, as well as the aforementioned "Book of the Damned". One of these events is the founding of the Neo-Asceticist movement, created in the year 2376.)
 2452 onwards, DML: None. (No further events were deemed necessary to expunge. The Neo-Asceticists disband.)
-2500's: Beginning of the Stellar Exodus.
+2500's: Beginning of the Stellar Exodus. The Great Evangelism (2500-2600)
 2700's: Great Cybernetic Revolt.
 2900's: Collapse of the 2nd American Republic. The last of the pre-Abundance political continuities. This marks the formal start of the age of the 7 Tribes of Terra, though others trace them as far back as the 2600's.
 3000's: Conquest of the Great Khan. Near reunification of all of mankind, only stopped at the battle of Earth. The Great Assembly of the Faiths creates the modern Galov.
@@ -271,8 +271,9 @@ The Platinum Emperor (AI) is more of a ceremonial figure. The secular god of the
 -Celestial Kingdom
 --Han Nationalist Celestial Army
 --Dragon Kingdoms (Servents of genetically engineered "Celestial Dragons". Tolerated transhuman nobility, basically.)
---Confucian Monastary Worlds (Independent school worlds that stayed out of politics)
---Houses of Wisdom (Apolitical and independent meritocratic school systems)
+--Confucian Monastary Worlds (Independent school worlds that stayed out of politics, Confucian)
+--Houses of Merit (Apolitical and independent meritocratic school systems, Legalist)
+--The Great Temples (Buddhist Temples)
 --Koreans
 ---Sinocratic Aligned-Vassal Worlds
 ---Great Daega (New cult movement, made to solve the issues of modern materialism)
@@ -360,7 +361,7 @@ The Lost Tribes are divided into two groups. The Primitivists and the Modernists
 --Old Griots (Abstrains from the Great Confederation.)
 
 The Gift Givers, the Architects, and the Solarians:
-These three are the "Big Three" of the Modernist side of the Lost Tribes. While the Primitivists are contetn with returning to the glory days of the past, the modernists are not content with simply returning to the past, they seek to actively build the future that is unapologetically theirs. Not just a crude imitation of the futures already forged by the white, black, or yellow man.
+These three are the "Big Three" of the Modernist side of the Lost Tribes. While the Primitivists are content with returning to the glory days of the past, the modernists are not content with simply returning to the past, they seek to actively build the future that is unapologetically theirs. Not just a crude imitation of the futures already forged by the white, black, or yellow man.
 
 The Other Worlds:
 Though the "7 Houses" are a useful way to categorize the 7 seed groups of humanity. They are far from all inclusive, even if we're solely talking about baseline humans, not even touching things like transhumans yet. The state of the galaxy is so pluralistic, fragmented, and so many permutations of hybrids exist that the following exercise can be attempted.
@@ -628,6 +629,8 @@ Faith of the Om (Strong influence over the World Dreamers)
 -Symbolic Capital: Delhi, India.
 -Actual Capital: Akshara. ("The Imperishable" in Sanskrit.)
 
+(More about these later.)
+
 There's also the scientific and military wing of the Galactic Government, who regulates technology and makes new breakthroughs.
 -Researcher Corps (For Research)
 -Technician Corps (For Maintenance/Engineering)
@@ -713,6 +716,68 @@ There are two more theoretical aspects of God, that have not been found anywhere
 Omnibenevolence - It appears all races sin. An alternative explanation, proposed by some Darwinian philosophers suggests that capacity for love grows as one gets stronger. Love is only possible when you are in a strong, and secure enough position to love others without risking your own existence. And that no species has achieved the level of infinite power needed to become omnibenevolent. This power therefore seems to be the sole domain of God.
 
 Omnipotence - God is alone in this. Though some suggest that those who have the Rationalitas, the Facultas, and Claves may begin to approach this as they advance. These thinkers tend to align with the Spiral Mandate thesis.
+
+Religion in the Galaxy:
+
+The Great Evangelism: Roughly 2900 to 3000.
+The Great Evangelism was an effort undertaken by the Christian Moralintern, shortly after the collapse of the American nation. Still mourning the death of their mother nation, the Moralintern decided to reconnect with the many lost children of America. To reconnect and evangelize to them wherever they were. And in the spirit of the American spirit, to spread the gospel of the Lord to the corners of the universe.
+Quadrillions of missionaries were mobilized, and the entire Moralintern apparatus, now spanning tens of thousands of worlds spread out wishing for nothing less than the total conversion of the galaxy. Pitched less like an evangelism and more like a nation mobilizing for total war. This was the Great Commission made manifest.
+It failed. Not from lack of effort, or will. But because the galaxy was simply too vast and fickle to push all in one direction. Even as they converted nearly 5-10% of the galaxy in the span of a single century, they knew their organization was going to burn out before they could finish the rest. Humanity was expanding too fast.
+And the seeds for the Millennium Mandate began to be planted, as the Moralintern began to set up 3 sister organizations, in fulfillment of their ultimate plan. The Islamintern, the Hinduintern, and the Buddintern were created by Moralintern agents, or well aligned secularists who were told to construct them, stabilize their worlds in turmoil, and that all 4 meet again someday.
+After the conquests of the Great Khan, and the construction of the modern Galov (Galactic Government), that vision has now come to pass.
+
+The 5 Unifaiths:
+The alliance of the 5 Unifaiths is the primary organizing structure of the Galov. Each Unifaith has their own administration, bureaucracy, and ruling structure, and merely sends a representative to serve as the representative of their interests. These 5 representatives then elect a Galactic Overseer, who is the head of the Galov. And these 5, plus the Overseer vote on legislation, normally requiring a unianimous vote, but sometimes allowing majorities during times of emergencies.
+Though all 5 Unifaiths are on paper equal, they are not in practice. Below is a listing of the 5 Unifaiths from most to least influential, both within the Galov itself, and the galaxy as a whole.
+
+The Christian Moralist International (Moralintern):
+Adherant Prevalence: ~13% of the Galactic Population.
+Representative Religion: Largely Ecumenical "Moralist" Christianity. In practice, Protestant and Evangelical-descended theology.
+Capital System: Orthello-Lithone.
+Role: De-facto head founder, and driving force of the Galov. Ideological heart.
+Head: Moral Overseer.
+Organizational Structure: Vaguely Parliamentary, with its own Moralist bureaucracy, its own legions of Moralintern Peacekeepers (affiliated with, but somewhat distinct from the Galactic Peacekeepers), the Ecumenical Assembly, with representatives from all over the galaxy, and the ability to pass semi-binding ecumenical councils and resolutions. Also has its Truthkeepers, effectively an anti-corruption/accountability/whistleblower organization pointed at itself. It's sole purpose is to basically investigate the Moralintern for corruption, and when it got bored because the Moralintern didn't have much corruption, investigate everyone else.
+Notable Efforts: The Millennium Mandate, and lots of soft cultural influences. The Moralintern loves sponsoring private initiatives as opposed to making their own in-house. They see various organizations that give out humanitarian aid, create Christian culture, or social media networks, or what-have-you. They go up to them, say "Hey, we love what you're doing, have several billion Galov-dollars and call us for any help you need." and then mostly leave it alone, since their goal is to entrench the power of Christianity as a religion, not themselves as an institution. Their own Protestant ethos makes them inherently skittish and suspicious (though not opposed, important distinction) to institutional power, a bit ironic. The Anti-Utopian Garden World projects.
+Demographics: Most prevalent among the Star Peoples, by far. But with dense pockets deposited all over the galaxy, leftovers from the Great Evangelism.
+
+Roman Catholic Church:
+Adherant Prevalence: ~14% of the Galactic Population.
+Representative Religion: Roman Catholicism
+Capital System: Petram.
+Role: Kingmaker, Institutional legitimacy. Semi-autonomous entity. Bolsters the Christian position, while also keeping the Moralists in check.
+Head: Roman Catholic Pope.
+Organizational Structure: The modern Catholic structure of cardinals, bishops, and priests. As well as all their organizational affiliates, such as Opus Dei, Jesuit Order, and various organizations such as the Order of Aquinas and Augustine, which form opposing camps of Rationalism and Empiricism respectively. There's also the Magisterium, which both verifies Catholic science, and updates Catholic doctrine. Their Military Orders and Knight Orders (Knights Templar, etc) are fully independent to the Galactic Peacekeepers, engage in Peacekeeping on their own terms, and are ultimately answerable only to the Pope.
+Notable Efforts: Overrepresented in Conceptual Entity Containment, as well as the Orthogonal Human Program, as well as research into the mystical and esoteric. The creation of Cathedral and Monastary Worlds, the construction of various Catholic "Cathedral-Palaces", enormous orbital stations which function like walk-in cathedrals and testaments to God's glory. The entire world of Petram is effectively one galactic-sized cathedral complex. Generally speaking, they do much of what the Moralintern does, with somewhat less overall impact, but greater scale and centralization.
+Demographics: Prevalent among the Cathedralites, but with sizable pockets among the Star Peoples, especially among the Latin  and Hundred populations. Also footholds among Sea Peoples.
+
+Organization of Islamic Cooperation: (Formerly the Islamintern)
+Adherant Prevalence: ~18% of the Galactic Population.
+Representative Religion: Islam, but mostly Sunni Islam. Tiny, effectively token Shia minority. (<0.1%) Vast majority of Shias are independent.
+Capital System: Al-A'la.
+Role: Main counterbalance, reigning in the Galov's overtly Christian influences. More cynically, "controlled opposition". But also the main military muscle, and source of new recruits.
+Head: Great Caliph.
+Organizational Structure: Somewhat scandalously, the OIC was originally constructed by the Moralintern in the aftermath of the Great Evangelism, and is therefore at least somewhat modelled after them, in order to bring peace to a chaotic wartorn region in the aftermath of the collapse of the Great Khan. Their most standout organization is the Dawah Network, effectively a centralized organization for Dawah, or spread of the Islamic religion. The Majlis are a massive, single decentralized assembly, while the Moralintern has a lot more non-democratic bureaucracy, Islam is incredibly democratic and decentralized, with no one save the Great Caliph considered hierarchally superior. The Great Caliph is a great leader of the united Ummah, elevated by consensus, though not easily removed, and him declaring fatwas or jihads of both literal and spiritual war shapes the decisions of quintillions.
+Notable Efforts: The Universal Halal Standards Board, the Galactic Calligraphy College of the Non-Visual Arts (The most esteemed religious artistic university in the galaxy), the Council of Ijtihad. Muslims enlist in the Galactic Peacekeepers at a higher rate than any other faith except perhaps the Sikhs, seeing it as a coming of age ceremony in many warrior traditions. They're also overrepresented on the the Galov bioethics board, due to being more conservative than most.
+
+Council of Hindus: (Formerly the Hinduintern)
+Adherant Prevalence: ~9% of the Galactic Population.
+Representative Religion: Hinduism, but mostly just in a symbolic manner. They don't claim to speak for all Hindus everywhere, just as a symbolic representation of their voice at the Galactic table.
+Capital System: Akshara.
+Role: Administrators and Bureaucrats. They are the hands that executes commands from the top into working bureaucracy. They evolved to deal with diversity, though they are a bit classist.
+Head: Only symbolic, they do have a head representative, just there because someone needs to represent them. The true power behind the throne are various Hindu technocrats and corporate syndicates, often descended from the Hindu Brahmin caste, and whose tech oligarchs and technocrats have evolved from the original priest role.
+Organizational Structure: Democratic all the way down, and also set up by the Moralintern. Though Hinduism in general is a very cultural religion without institution. Hindus understand that each person speaks for themselves, less so all Hindus everywhere.
+Notable Efforts: Pushing back against the Moralists during the Monohuman Controversy, carefully balancing and managing high diversity worlds and maintaining harmony. Generally keeping stability across the galaxy through thick, interlayered cultures. They're very good at carefully maintaining cultural harmony, once the Christian "anti-utopia" methods have already been tried. Rather than transcendent unity and humanist acceptance, they generally shift the goalpost to basic toleration.
+
+Universal Buddhist Association: (Formerly the Buddintern)
+Adherant Prevalence: ~3% of the Galactic Population.
+Representative Religion: Buddhism. Maintaining a careful balance between their many schools, and only speaking on universally agreeable principles.
+Capital System: Shunya.
+Role: Less administratively important, and more symbolically important. The representative for "the little faiths" so the Galov isn't accused of being the great powers carving up the smaller ones. Traditionally the voice for smaller faiths such as Sikhism, Ba'haism, etc.
+Head: Similar to the Hindus, they just have a representative. The schools already have their own teachers, heads, and organizations.
+Organizational Structure: Inside the UBA, it consists further with organizations for each of the many schools of Buddhism, with the general exception of Western Buddhism, who tend to be too decentralized to join such an organization.
+Notable Efforts: Largely smaller faith outreach programs. They're effectively the Galov's PR organization when they need to do interfaith outreach to smaller or newer faiths. Basically, that nice, gentle faith that doesn't ask for much of anything, "we just want to do what's best for everyone" before the Muslims park their orbital cannons in orbit, the Hindus start setting up bureaucracies, the Moralist Christians begin figuring out how to enforce their ethics on you, and the Catholics quietly ask if the Moralists can dial it back to a 9 rather than a 10.
+
+
 
 The Council of Cayenne:
 The discovery of extraterrestrial life shocked the Christian world, leading to a scramble for a ecumenical consensus. What became a few isolated examples became a flood, as humanity came upon tens, and then hundreds of xenosophontic species. In light of this overwhelming discovery, the Christian churches convened for an ecumenical council for the first time in millennia, at the Council of Cayenne in the year 2671. Chosen for its symbolic location in the New World, but also its close proximity to the American Spaceport in now American Guiana.
@@ -812,6 +877,40 @@ Governorship of Earth:
 Earth was able to reunify sometime after the Conquest of the Great Khan. Its governor elected by a council of old Earth regions. (Electors from all of the 7 continents.) Despite its relatively modest size in terms of sheer territory (Being a planet-state), Earth still remains a heavyweight in the realm of diplomacy. Earth even to this day retains one of humanity's most built up population and industrial bases. (Approaching 10 quadrillion people as of contemporary times, more than many stellar nations.) And this is before one considers Earth's symbolic position. No other man is as close to being a true leader of the human race. Even if Earth does not actively control them, Earth commands so much respect that the word of the governor could mobilize a million worlds. Aside from the big nations, there are perhaps a few million independent worlds, many of which are loyal to an idea of human nationalism, and defer their decisions to Earth. And it is for this reason that even the Galactic Government fears Earth, and there exists some tension between who exactly is the true authority of the galaxy. Earth so far has not invoked this power, as the symbolic leader of the human race, but as more ambitious governors take the throne, the Galactic Government worries about whether Earth will sidestep their immense power. The Earth is also not shy in their own arsenal of exotic weapons. Being the most developed world in the entire galaxy, where the galactic bureaucracy was once run, being the site of incorporation of over a million galaxy-spanning institutions and corporations, the institutional power of Earth runs deep. No other planet has this concentration of raw power. And deep within the depths of Earth, are secrets that make even the Galactic Government shudder.
 
 Earth has a very broken way of making money. Almost all of its revenue is received by a land tax. Given how many "Heritage Foundations" basically rent bits and bobs of land from the Earth, and how many institutions like the Bethlehem Foundation, the Roman Catholic Church, and several religious organizations need to rent their own holy sites back from Earth, the Earth receives an amount of tax money enough to rival even the Galov.
+
+Structure of the Celestial Meta-Kingdom:
+-Platinum Emperor (AI Supreme Emperor, Dormant, Sleeping, Does not involve himself in Dynastic Politics. He literally has it coded in so he doesn't intervene. Just there to make sure the civilizational continuity continues.)
+-Imperial Family (Yi Family as current Royal Family. Technically the Liang Dynasty, though this was not the first or last dynasty.)
+--Celestial Emperor (Human Emperor)
+---The Imperial Gene-Labs (Where the new heirs would be created from a single wife.)
+----The Head Examiner (Technically the head of the Eunuchs. Responsible for meritocratically testing the 12 Heirs and seeing who is most fit. Just designs all kinds of arduous tests of physical fitness, mental aptitude, governing skills, sometimes pitting the 12 in combat. The 11 not chosen are left up to the fate of the 1 chosen. They can be executed, given governorships, exiled, whatever. Is accountable to the emperor. But I am 100% sure this has never been abused ever before for a Eunuch faction to encode their rule. It's fine, just reformat them, good as new.)
+----The Zodiac Heirs (12 is a lucky number in Chinese, corresponding to the zodiac. One would be chosen as the Prime Heir in a brutal meritocracy.)
+----Bastard Children (The Emperor sometimes sired a bastard. These are technically able to inherit the throne in an emergency, but by default start at position 13 or more.)
+-Consort Kin (The several peripheral families the current emperor had married.)
+-Data-Eunuchs (Perfectly subservient androids made to serve the royal family. Not so subservient in actuality. Either gained awareness through unexpected emergent phenomena, or got hijacked by adversarial memetic attacks. Took over a dynasty multiple times, creating Silicon Despotisms until human armies either cleared them out or the Platinum Emperor woke up again and told them to get out.)
+-The Heavenly Bureaucracy (Traditionally seated on the planet Yugong, which is JUST the administrative portion. The entire star system of Yujing which Yugong is situated is even larger and more populated.)
+-The Academy of Language (The institution that standardizes and settles matters relating to the Mandarin language. Technically even has the power to override the emperor on issues of Mandarin. The Celestial Kingdom is probably the ONLY polity this far out in deep space where the language hasn't splintered to all hell.)
+-The Heavenly Institutions (The houses of learning that were semi-autonomous and executed the imperial exams. Which house depends which ideology the emperor favored.)
+--Confucian Monastary Worlds (Confucianism)
+--Houses of Merit (Legalism)
+--Buddhist Temples (Buddhism)
+--Taiping Heavenly Temple (This is their own variant of Christianity. There has been exactly one emperor which tried to do this... He was rapidly overthrown.)
+--Galov Modernization Schools (For that one time the Celestial Kingdom tried to modernize, they put up the Galov's own civic education institutions in charge so they can integrate and be a normal nation... This also didn't end well, and the emperor was deposed.)
+-Liang Military (Either a bunch of conscripts, trained by semi-autonomous generals, or mercenaries.)
+-Houses of Trade (Imperial Approved Corporations. Basically SOEs, private enterprise absolutely existed but these are the largest and most powerful. Getting too large usually means getting an offer you can't refuse to become a trade house.)
+-Tributary States (The traditional allies of the Celestial project. But liable to break away in times of strife. Various ethnic peoples, Koreans, Vietnamese. The Great Houses of Southeast Asian cultures, and the occasional stray Western/African/Arab world that wandered into the wrong sector and were forced to pledge loyalty every now and then.)
+
+Waking the Platinum Emperor:
+There has been exactly one time when the Platinum Emperor was awoken for an extended period of time, when a truly insistent emperor demanded he be given direct guidance. So the Platinum Emperor began belting out precise instructions for a computational project of unfathomable scale, and for a great mound of chemicals to be turned into a plush. This went on for 3 days straight, and when the project was finished, it was a massive "DO NOT DISTURB" sign, and the softest pillow in the galaxy. He then went back to sleep.
+
+In general it's now widely accepted the Platinum Emperor does not appreciate being woken.
+
+The Defense Pact of Yugong and Orthello:
+The Celestial Kingdom has balkanized every now and again, and the standard protocol is for the Celestial Emperor to go on a unification war to bring it back together, and then terrorize the tributaries back in line, and possibly fight off the Moralists before they get any funny ideas and convert one of their tributaries. Strangely enough, every time the Chinese unify, the Moralists get an order to leave Celestial space and their tributaries.
+
+No one is exactly sure why, the best anyone has pieced together is that it has to do with some kind of deal the Moralintern has signed with the Platinum Emperor, all the way back in the late 21st century. Which by their standards, was over a thousand years ago. Somehow the Emperor knew the organization all the way back on Earth, even after he was moved to Yugong.
+
+The Moral Overseer once came to Yugong requesting to deliver a message to the Platinum Emperor. On some occasions the Moralintern has come in to the Celestial Kingdom's defense. Best guess is that it's some kind of ancient defense pact that they still hold onto honoring.
 
 The Star Wanderers:
 Other names: Yanglos, Yanklos, Yankos, "Y".
@@ -2271,7 +2370,7 @@ Demographics of the Galaxy:
 Human Space: (The volumes of space under the juristiction of Humanity, and therefore the theoretical juristiction of the Galov.)
 Total number of inhabited worlds under their control: 3.55 billion worlds.
 Total number of stars in human space: ~12 billion. (Most of which effectively useless red dwarves.)
-Total Population of Human Space: 4.75 quintillion people.
+Total Population of Human Space: 47.5 quintillion people.
 
 71% "Terrans" (Baseline Humans, derived from the people of Earth. May or may not have transhuman modifications.)
 Total population: 3.35E+19 (33.5 quintillion.)
@@ -2711,6 +2810,18 @@ In the countless urbanized paper rings of Earth itself, the heart of industry st
 A great glowing ring wraps around the outermost layer, the ring of radiators radiates the heat of Earth out to the wider cosmos. In darkness the Earth should be cold, but it is warmed by the yellow-brown blankets that it now smothers itself with.
 If Earth proper was not enough, another 10 quadrillion lives in a gigantic orbital swarm around Earth. So many O'Neil cylinder habitats that it becomes a swarm, forget the universe. Just Earth itself is a neverending maze of fractal exploration.
 Ruling polities: The Governorship of Earth. Israel (Given autonomy, now manages the holy land). Various indigenous reservations. (The Earth offered to evacuate them, but they preferred to stay, even if the sky is now a permanent hazy red.)
+
+The Jerusalem Needle:
+Earth is an ecumenopolis, everyone knows that. And we all know the Earth is covered in skyscrapers 10 kilometers deep, and then massive orbital onion-layer megastructures to pile on more people. What people are not ready for is the Jerusalem Needle.
+Effectively, stretching ALL the way down to the land of Israel, up into the sky, and a quarter of the way to the moon. One gigantic skyscraper-like construct that is meant to house as many Jews as physically possible. This required a stupid amount of engineering. And it arrived in many ways.
+"We are making sure we are connected to the land of Israel, no matter how logistically absurd it is! The same way we are in the land of Israel even if we're standing in a building, then it does not matter how tall the building is!"
+"Sir, we're constructing another onion layer, you need to move your space needle. These things have to spin to generate gravity, we can't just avoid the giant needle jutting out of the surface."
+"Sacrilege! Blasphemy!"
+"Whatever, we're sawing off the needle."
+"We will never forget this!"
+...
+"But what *is* being connected, exactly?"
+There is now a single wire that connects the stump of the Jerusalem needle to the rest of the giant megastructure in orbit. There are several wires that disconnect and reconnect so there is a "grounding connection" at all times, and they have argued by Jewish law this is a lawful extension of the land of Israel. Because this is a building, and a building on the land of Israel is still a part of the land of Israel.
 
 Luna:
 Earth's natural satellite, it started out a massive industrial world, and it still remains an industrial world. The entire world was the launchpad which humanity made its journey to the stars, and now, nearly 1000 years later, it still remains the gateway to humanity's cradle. Erosion reveals its iron scaffolding, that which held it together as mankind strip mined it to reach the stars. Every ship, every ring, every habitat, all came from Lunar regolith. Mankind wished to carve his name among the stars, 1/3rd of Luna's mass was the price.
