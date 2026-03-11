@@ -1555,7 +1555,7 @@ Nearly 500 years later, it is now the Galov's policy to track down and re-integr
 "Okay, so we have this distributed network system of every standardized invention ever created across the entire galaxy, verified by worlds giving a simple up or downvote. And when an enemy shows up, we just iterate like 1 trillion different ideas at said enemy and keep iterating and improving until the enemy either goes away or is blown into dust."
 "That sounds... Monstrously overpowered."
 "Oh it is. But the human brain has known psychological blindspots, so we're recruiting as many strange or "orthogonal" minds a possible to help us brainstorm more convoluted ways to kill the cosmic horrors beyond our comprehension."
-"... Why is the Andromeda galaxy so dark?"
+"... Why is that faraway galaxy so dark?"
 "Oh, it got Coulomb'd. The entire thing. We think we're fighting against some kind of extracosmic force beyond our comprehension. The galaxy's dead now, whole thing is frozen. Poof."
 "..."
 "Yeah do you see why we're so eager to seek you out to help us orthogonalize a way to fight this thing?"
@@ -2587,7 +2587,7 @@ Attitude:
 -In one word, big. They think big and they dream big. There is an almost inherent optimism to how they see the world. Dreaming to the point of delusion, but it is often those who are delusional who make history. These people faked it until they made it, their new world position leading to attracting all the most ambitious and innovative of all the other world's cultures. Gives way to delusional utopianism, or apocalyptic despair, both being strong catalysts for unrest and revolution. The Star Peoples are not one that takes oppression well.
 
 Cathedralites:
-Terran Homeland: The continent of Old Europe, east of the former nations of Russia and Belarus. Ukraine is considered "disputed territory". As is Turkey (with the Prophet Followers), Canada and Australia (with the Star Peoples).
+Terran Homeland: The continent of Old Europe, west of the former nations of Russia and Belarus. Ukraine is considered "disputed territory". As is Turkey (with the Prophet Followers), Canada and Australia (with the Star Peoples).
 
 Seed Point: The Fall of the Roman Empire, and the creation of modern Western civilization. Scattered peoples organized into kingdoms, and offered service in exchange for the protection of the lord's caste.
 Set Point: Middle Ages to Early Modern age, with the crystalization of the modern European bureaucracies. The Catholic Church, absolutism, the German state, the increasing centralization of the European Powers, and the European Union.
