@@ -41,6 +41,57 @@ Vast, vivid, and alive.
 
 ######################################################################
 #
+#   Table of Contents:
+#
+#####################################################################.
+
+The Human Diaspora (Opening Intros)
+Table of Contents
+Timeline of Events
+Prologue, Before the Collapse (2350 AD and before)
+Chapter 0: The Great Abundance Collapse (~2450 AD)
+Chapter 1: The 7 Tribes of Terra (2450 AD - Present)
+Chapter 2: The Transhumans (~2500 AD - Present)
+Chapter 3: The Great Cybernetic Revolt (2600's AD)
+Chapter 4: First Contact (2600 AD - 2700 AD)
+Chapter 5: The Great Khan (2700 AD - 2800 AD) (Unfinished)
+The Modern Galov (2800 AD - Present)
+Chapter 6: Fractal Diversity (2900 AD - 3000 AD)
+   Chapter 6A: SPIRAL THEORY
+   Chapter 6B: ORTHOGONALITY
+   Chapter 6C: THE EVOLVING GALOV
+   Chapter 6D: ORTHOGONAL FIRST CONTACT
+Chapter 7: The Outer Conceptual Era (3300's - 3500's AD)
+   Chapter 7A: CONTACT WITH THE OUTER BEINGS
+Chapter 8: Deep Cosmology (3600's - Present AD)
+Author's Notes
+Appendix A: Technology of the Galov
+Appendix B: Outer Cosmology of the CoD-verse
+Appendix C: The Other Timelines
+Appendix D: Galactic Atlas, 3400 AD
+   DEMOGRAPHICS OF THE GALAXY
+   STAR TYPES AND CIVILIZATION
+   THE 5 UNIFAITHS
+   MAJOR DEMOGRAPHIC GROUPS
+   THE WORLDS OF THE GALAXY
+   ASPECTS OF THE IMAGO DEI
+   GREAT EMPIRES AND NATION-POLITIES OF THE GALAXY
+   NON-GALOVIAN HUMAN ENTITIES
+   SOL AND CITADEL
+   GALOVIAN GOVERNANCE
+   GALOVIAN ECONOMICS
+Appendix E: Galactic Narratives
+   Narrative 1: The Spiral Man
+   Narrative 2: New Plymouth
+   Narrative 3: The Meta Man
+   Narrative 4: Istanbul-Seven
+   Narrative 5: John Fairweather, the Chronoman
+   Narrative 6: The Last Witch-Doctor of Mars
+   Narrative 7: Everywhere at the End of Time
+Appendix F: Miscellaneous Lore
+
+######################################################################
+#
 #   Timeline of Events:
 #
 #####################################################################.
@@ -69,7 +120,7 @@ Pre 1990's, DML: None, nearly all of it has been well preserved.
 
 ######################################################################
 #
-#   Prologue, Before the Collapse (2350 AD and before):
+#   Prologue: Before the Collapse (2350 AD and before)
 #
 #####################################################################.
 
@@ -1498,7 +1549,7 @@ There is never a lack of pleasure worlds, as any given planet has a small chance
 
 ######################################################################
 #
-#   Chapter 6: Orthogonality (2900 AD - 3000 AD)
+#   Chapter 6: Fractal Diversity (2900 AD - 3000 AD)
 #
 #####################################################################.
 
@@ -1919,7 +1970,7 @@ To the Moralintern, the reason they don't "require" total conversion is because 
 
 ######################################################################
 #
-#   Chapter 7: OUTER CONCEPTUAL ERA (3300's - 3500's AD)
+#   Chapter 7: The Outer Conceptual Era (3300's - 3500's AD)
 #
 #####################################################################.
 
@@ -2099,7 +2150,7 @@ I like to think that these were just a bunch of silly goofy goobers who wanted h
 
 ######################################################################
 #
-#   Chapter 8: DEEP COSMOLOGY (3600's - Present AD)
+#   Chapter 8: Deep Cosmology (3600's - Present AD)
 #
 #####################################################################.
 
@@ -2322,6 +2373,12 @@ This should not be happening. Swords by all means should be obsolete weapons. Bu
 Some basement dweller fueled by nothing but knight and samurai movies and a desire to make swords practical again or die trying in the age of galactic combat created one of the most obscenely bizarre weapons in galactic history, the shock blade. How shock blades (or, just swords) work is that the edge is actually a specialized space folder, which creates a shockwave of "creased" space that tears people apart through spacetime distortions, simulating the clean cut of a blade. This "creasing" ability is amplified with power, and is activated when the sword is swung with the power enabled. This requires such a high amount of energy that an antimatter or hard light battery serves as the core of the sword handle.
 This allows a single superhuman psychic agent, who is already obscenely overpowered in space, to simply take a space sword and literally slice a battleship in half at a range of several kilometers away. The disadvantages of the shock blades is still evident, you still need to be in visual range of the target, and in space 10 kilometers is still incredibly close range. The use of shock blades is usually paired with matter trawling, or other high mobility strategies that allow one to close to gap.
 Of course, it was not long until a gun variant was made, known as the "shock gun", which basically shoots a "shotgun blast" of spacetime shockwaves, though this is a more rough rupture than the blade, which is more of a clean cut.
+
+Amusing Interim: Disaster films in the Galovian Era:
+
+To many, humanity is the scariest lifeform in the galaxy. Between the Spiral Decree, weapons that regularly create Armageddon, the ability to terraform life and stars, and its incredible, aggressive desire to remake all of creation in its image. Humanity is terrifying. So it's always fun when humans have to cook up something that scares even them. Already the apex predator of the galaxy, and they have to dream up something even larger and scarier. Extragalactic entities from outer space, ripping apart human civilization and sundering the stars.
+It's always fun when a smaller xenos species is already terrified of the capacity of humanity, and they go into a movie theatre and watch humanity come up with a fictional race even stronger and scarier than themselves. Humanity has colonized the entire galaxy? There must be an alien race that has colonized 10,000, and we've pissed them off in particular. There's something to be said about the fact that despite the fact that humanity has been the apex predator on their home planet for thousands of years, the instinct that they are prey never quite went away. When humanity reached the top of the food chain, they invented a new predator in order to scare themselves.
+Needless to say, seeing what to a lot of xenos, is a literal race of gods on a movie screen cowering and terrified before something even bigger and scarier that the humans made up is an interesting experience.
 
 ######################################################################
 #
@@ -3077,6 +3134,20 @@ Defunct Empires:
 -Empire of Light: Before its fragmentation, the Empire of Light was a state too powerful to attack, and was largely ignored. The Empire of Light's downfall did not come from the Galactic Government, but pissing off enough peer-level nations that it eventually got hacked apart.
 -The Great Khan: This was less of an empire and more of a moving army. Of an unstoppable army, and the numerous worlds that laid under him. The Great Khan was both a great conquerer, but also delegator. He was tolerant and pluralistic, wanting to unify the galaxy under his rule. In the late days of his reign, he gathered together the strongest religions of the galaxy, shortly before he died. In fact, it was this assembly of religions that would end up becoming the modern Galactic Government, though the modern Galactic Government tries to downplay these roots.
 
+Celestial Empire (Appended information):
+
+Waking the Platinum Emperor:
+There has been exactly one time when the Platinum Emperor was awoken for an extended period of time, when a truly insistent emperor demanded he be given direct guidance. So the Platinum Emperor began belting out precise instructions for a computational project of unfathomable scale, and for a great mound of chemicals to be turned into a plush. This went on for 3 days straight, and when the project was finished, it was a massive "DO NOT DISTURB" sign, and the softest pillow in the galaxy. He then went back to sleep.
+
+In general it's now widely accepted the Platinum Emperor does not appreciate being woken.
+
+The Defense Pact of Yugong and Orthello:
+The Celestial Kingdom has balkanized every now and again, and the standard protocol is for the Celestial Emperor to go on a unification war to bring it back together, and then terrorize the tributaries back in line, and possibly fight off the Moralists before they get any funny ideas and convert one of their tributaries. Strangely enough, every time the Chinese unify, the Moralists get an order to leave Celestial space and their tributaries.
+
+No one is exactly sure why, the best anyone has pieced together is that it has to do with some kind of deal the Moralintern has signed with the Platinum Emperor, all the way back in the late 21st century. Which by their standards, was over a thousand years ago. Somehow the Emperor knew the organization all the way back on Earth, even after he was moved to Yugong.
+
+The Moral Overseer once came to Yugong requesting to deliver a message to the Platinum Emperor. On some occasions the Moralintern has come in to the Celestial Kingdom's defense. Best guess is that it's some kind of ancient defense pact that they still hold onto honoring.
+
 The Afghire Confederacy:
 The single scariest group of motherf---ers you will ever encounter. Long after the Great Exodus, the descendents of Appalachian Irish-Americans, and Afghani mountain tribal diaspora encountered each other in one of the roughest patches of space. They had some frankly scary beliefs about extreme high honor culture, masculinity, and toughness, and the two tribes fought a 250 year long blood feud over the land and mountains. The blood siege created a extremely high duty, honor, and warrior culture. Of the kind that would start a fight if one's honor was insulted, and would rather die than leave one of their men behind.
 Eventually religious proselytization from institutions like the Moralintern was able to temper their temper (At the cost of literal millions of missionaries), though not eliminate the honor culture that was now baked into their blood. The new Afghire synthesis created one of the most aggressive outwards expansions in human history, maintaining a birthrate of 10, aggressively intermixing with any conquered peoples, and raising them in their cultures. This great expansion 1000x'd their original population in the span of a few centuries, completely demographically displacing the original peoples of that star sector. In order to manage the outward expansion, operating on a warped version of Manifest Destiny and civilizational mission, the tribes formed into a confederacy, based on a semi-mythical civilizational mandate to spread Afghire society as far as possible.
@@ -3191,7 +3262,7 @@ The Spiralites:
 They read "Through the Infinity Spiral", and decided to recreate the Spiral Empire early, damned be the consequences. They saw a utility maximizer, they saw a perfectly utilitarian system, and many of them, hard Darwinists and utilitarians decided to hop on board.
 Downside: When the Galov first heard about this, especially the Moralintern, they just straight up panicked and sent as many Peacekeepers and agents as they could spare to destroy this before it got started. Yet for some strange reason, the Spiralites just aren't taking off. It's like a system that refuses to boot. Utilitarianism turns out to be a great way to alienate and burn out your population, and brutalism isn't a good way to motivate your population. Whatever spark actually got the Spiralists to actually get going in Godsight's vision, it clearly isn't here. The Galov is completely confused by this, what exactly are the Spiralites missing?
 
-CITADEL AND EARTH:
+SOL AND CITADEL:
 #####################################################################.
 
 Citadel System:
@@ -3343,7 +3414,7 @@ Labor is incredibly expensive. Material is incredibly cheap. If you're willing t
 
 ######################################################################
 #
-#   Appendix F: Galactic Narratives
+#   Appendix E: Galactic Narratives
 #
 #####################################################################.
 
@@ -3490,13 +3561,6 @@ Why he had left it out is somewhat unknown. Given his conversion into the Pentec
 
 Aside from that, the whole book caused the Galov to begin introspecting about the dark future Godsight had provided, and they began trying to draft preparations. It was not entirely certain whether the future was deterministic nor still open to the free will. Godsight himself favored the latter, stating that he continues to get flashes of the far future. And that after publishing the book, he had butterfly'd the timeline to the point it had already been changed. To what, and to what extent, he remains quiet about, simply smiling, and saying it is in God's hands now.
 
-Amusing Interim: Disaster films in the Imperial Era:
-
-To many, humanity is the scariest lifeform in the galaxy. Between the Spiral Decree, weapons that regularly create Armageddon, the ability to terraform life and stars, and its incredible, aggressive desire to remake all of creation in its image. Humanity is terrifying. So it's always fun when humans have to cook up something that scares even them. Already the apex predator of the galaxy, and they have to dream up something even larger and scarier. Extragalactic entities from outer space, ripping apart human civilization and sundering the stars.
-It's always fun when a smaller xenos species is already terrified of the capacity of humanity, and they go into a movie theatre and watch humanity come up with a fictional race even stronger and scarier than themselves. Humanity has colonized the entire galaxy? There must be an alien race that has colonized 10,000, and we've pissed them off in particular. There's something to be said about the fact that despite the fact that humanity has been the apex predator on their home planet for thousands of years, the instinct that they are prey never quite went away. When humanity reached the top of the food chain, they invented a new predator in order to scare themselves.
-Needless to say, seeing what to a lot of xenos, is a literal race of gods on a movie screen cowering and terrified before something even bigger and scarier that the humans made up is an interesting experience.
-
-
 Narrative 2: New Plymouth
 #####################################################################.
 
@@ -3560,23 +3624,7 @@ The agent then went around the nation, flattening entire military bases to ash w
 "Offending government has been eliminated. No survivors. I will be requesting a planetwide reconstruction corp. Medical attention is sorely needed, and sociologists, who can restructure the institutions, and build something new from this... Empire of sorrow."
 
 
-Narrative 5: The Celestial Kingdom
-#####################################################################.
-
-Waking the Platinum Emperor:
-There has been exactly one time when the Platinum Emperor was awoken for an extended period of time, when a truly insistent emperor demanded he be given direct guidance. So the Platinum Emperor began belting out precise instructions for a computational project of unfathomable scale, and for a great mound of chemicals to be turned into a plush. This went on for 3 days straight, and when the project was finished, it was a massive "DO NOT DISTURB" sign, and the softest pillow in the galaxy. He then went back to sleep.
-
-In general it's now widely accepted the Platinum Emperor does not appreciate being woken.
-
-The Defense Pact of Yugong and Orthello:
-The Celestial Kingdom has balkanized every now and again, and the standard protocol is for the Celestial Emperor to go on a unification war to bring it back together, and then terrorize the tributaries back in line, and possibly fight off the Moralists before they get any funny ideas and convert one of their tributaries. Strangely enough, every time the Chinese unify, the Moralists get an order to leave Celestial space and their tributaries.
-
-No one is exactly sure why, the best anyone has pieced together is that it has to do with some kind of deal the Moralintern has signed with the Platinum Emperor, all the way back in the late 21st century. Which by their standards, was over a thousand years ago. Somehow the Emperor knew the organization all the way back on Earth, even after he was moved to Yugong.
-
-The Moral Overseer once came to Yugong requesting to deliver a message to the Platinum Emperor. On some occasions the Moralintern has come in to the Celestial Kingdom's defense. Best guess is that it's some kind of ancient defense pact that they still hold onto honoring.
-
-
-Narrative 6: John Fairweather, the Chronoman
+Narrative 5: John Fairweather, the Chronoman
 #####################################################################.
 
 Where the story of the Spiral Man was of a man going back to the far future, this is the story of a man going to the past. As a refresher, Chronoman experience life non-consecutively. And can sometimes live the future before they live the past. Due to the future being fixed, and therefore immutable, Chronomen living in the past, after living in the future cannot butterfly a timeline that has already occured. Trying to divulge information about the future in a way that changes the future is known as a Novikov violation. Everything that they do in the past will have always been the case, in a self contained loop. This was the case for one John Fairweather, the first ever Chronoman.
@@ -3625,7 +3673,7 @@ He watched as the world rebuilt. But there was a problem, his parts were failing
 He woke up, hundreds of years later, in the soft bed and warm sheets of the year 3300. His time jump had completed, and he was happy to be back in the present he recognized.
 
 
-Narrative 7: The Last Witch-Doctor of Mars
+Narrative 6: The Last Witch-Doctor of Mars
 #####################################################################.
 
 Billion of years before the rise of life on Earth, Mars had life. The universe was recovering from the Great Luciferian Disaster, and Death Worshippers hunted the known universe.
@@ -3649,7 +3697,7 @@ One day, Earth will know his name as Quetzalcoatl.
 Little remains on Mars today. Nothing but dusty ruins and the mummified remains of a once living Noosphere. But late into the 23rd and 24th century, human psychics detected the faintest of psychic presences emanating from the world of Mars.
 
 
-Narrative 8: Everywhere at the End of Time
+Narrative 7: Everywhere at the End of Time
 #####################################################################.
 
 "The Infinity Spiral is ever shifting, with the amount of chronomen constantly staring into the future, every decision, every bit and bob of information they bring back into the present butterflies the entire timeline. I don't know if those futures still exist, in some kind of many-worlds interpretation, but we're certainly not headed on it."
@@ -3717,7 +3765,7 @@ In a forgotten corner of a universe that had grown far too old and used. Of whic
 
 ######################################################################
 #
-#   Appendix G: Miscellaneous Lore
+#   Appendix F: Miscellaneous Lore
 #
 #####################################################################.
 
