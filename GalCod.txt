@@ -1928,7 +1928,36 @@ A conversation between two Galov bureaucrats:
 
 ######################################################################
 #
-#   Chapter -1, Before the Collapse (2350 AD and before):
+#   Author's Notes:
+#
+#####################################################################.
+
+The following is some craft notes on the setting.
+
+Q: Why?
+A: A few reasons. One, to out-woke the woke on cultural representation. But also because frankly, progressivism doesn't represent underrepresented people nearly enough. Two, as a kind of annoyance that very few sci fi settings, including supposedly hard sci fi ones (Looking at you, Xeelee Sequence) really don't get how large 200 billion stars is. Not people, *stars*. I wanted to build a galaxy that felt like a real galaxy. Feel what it would feel like to live inside it, and drown under the weight of 200 billion stars.
+
+Q: So this is just a spite fic?
+A: Oh, no. You don't write a novel's worth of spite. I genuinely love the Galov, the galaxy, and all the factions and worlds contained within. There is a strong sense of just my baffled observations about things within it. There is probably a lot of spite mixed into it, but a lot of it is genuine interest, and "oh my God this is insane but makes total sense".
+
+Q: What's with the tone?
+A: I am a highly realistic writer. I write with complete realism with how I see the world. Problem is I see the world as deeply funny. When I write humans, I write them how I really see them. This is my love letter to humanity, I love it in the same way I love the giant den of raccoons that the city has been dealing with every week but can't get rid of. And then the city adopted them as an ironic symbol that slowly become unironic. We love these stupid things so much. This is the kind of tone that permeates everything.
+
+Q: Why are the humans so diverse and the aliens so monolithic?
+A: Oh uh. That's not something that actually is in-universe, that's literally just a limitation of my imaginative capacity. My brain would actually have a stroke if I tried to imagine that much fractal diversity for every alien species. Canonically speaking, every species here has as much fractal diversity level as the distance between New York City and rural Myanmar. I just physically cannot write all of it, please use your imagination. You know the sub-sub-subfactions that were listed at the start? Yeah, that's a high level overview, the equivalent of naming the continents on Earth. There's a few hundred factions there. There are 200 *billion* stars. Problem with writing alien diversity is half of it is genuinely impossible to grasp (Orthogonality). Unironically, it is my imagination that is the limiting factor. This document only scratches the surface. In reality, the actual universe is canonically as diverse and fractal as real life.
+
+Q: What does the actual galaxy feel like?
+A: Imagine literally anything. As long as it doesn't warp everything in the setting. It can be a take on an existing alien species with its own unique mechanics and culture. If it doesn't directly contradict some other piece of lore here, doesn't break the power system, and isn't so big that people would notice, it probably exists and is canon. We have literally every culture in human history, and their distorted funhouse versions, in a sea of expansive worlds that number more than the grains of sand in the ocean. Same goes for aliens. Is there a variant of Death Worshipper that is actually trying to defect and is trying to help life? Yes, that is canon but they haven't reached humanity yet. Is there some variant of Mind-Bearer culture that is totally neurotypical by sheer chance? Yes. Is there a variant of Spindlers who have a completely different language, have become sedentary due to their own complex religion. Yes that exists.
+
+Q: How much diversity is too much in this setting?
+A: No.
+
+Q: What are your inspirations?
+A: A lot of weird sci-fi stuff. Most of the Galov is original. But what inspired me to make the Galov is the Eutopian Council from Kirinyaga by Mike Resnick (RIP). Kirinyaga is my biggest inspiration, and in a somewhat non-straight forward way. Other influences, stuff I looked at and either felt inspired by felt the need to harshly rebut. Three Body Problem, the Culture, Star Trek, Atlas Shrugged, the Viltrumites, Xeelee Sequence, Gurren Lagen. Journey to the West with bits of Paradise Lost informed the Adam storyline.
+
+######################################################################
+#
+#   Prologue, Before the Collapse (2350 AD and before):
 #
 #####################################################################.
 
